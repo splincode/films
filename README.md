@@ -10,6 +10,7 @@
 - [x] [Паразиты](https://www.kinopoisk.ru/film/1043758/)
 - [x] [38-я параллель](https://www.kinopoisk.ru/film/80221/)
 - [x] [Вернуться в 1988](https://www.kinopoisk.ru/series/944829/)
+- [ ] [Игра смерти](https://www.kinopoisk.ru/series/5378717/)
 
 ### Франция
 
