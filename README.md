@@ -11,6 +11,7 @@
 - [x] [38-я параллель](https://www.kinopoisk.ru/film/80221/)
 - [x] [Извержение](https://www.kinopoisk.ru/film/1222769/)
 - [x] [Вернуться в 1988](https://www.kinopoisk.ru/series/944829/)
+- [x] [Прошлые жизни](https://www.kinopoisk.ru/film/1346482/)
 - [ ] [Игра смерти](https://www.kinopoisk.ru/series/5378717/)
 
 ### Франция
