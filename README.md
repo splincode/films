@@ -130,9 +130,5 @@
 - [x] [127 часов](https://www.kinopoisk.ru/film/484878/)
 - [x] [Револьвер](https://www.kinopoisk.ru/film/18973/)
 - [x] [Последний отпуск](https://www.kinopoisk.ru/film/81746/)
-
-
-### Мультики
-
 - [x] [ВАЛЛ·И](https://www.kinopoisk.ru/film/279102/)
 - [x] [Головоломка](https://www.kinopoisk.ru/film/645118/)
