@@ -14,6 +14,7 @@
 - [x] [Прошлые жизни](https://www.kinopoisk.ru/film/1346482/)
 - [x] [Игра смерти](https://www.kinopoisk.ru/series/5378717/)
 - [x] [Игра в кальмара](https://www.kinopoisk.ru/series/1301710/)
+- [x] [Выход](https://www.kinopoisk.ru/film/1118187/) 
 
 ### Япония
 
