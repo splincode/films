@@ -32,16 +32,20 @@
 - [x] [Жизнь прекрасна](https://www.kinopoisk.ru/film/381/)
 
 ### Германия
+
 - [x] [Достучаться до небес](https://www.kinopoisk.ru/film/32898/)
 - [x] [Тьма](https://www.kinopoisk.ru/series/1032606/)
 - [x] [1899](https://www.kinopoisk.ru/series/4308621/)
+- [x] [Бункер](https://www.kinopoisk.ru/film/48246/)
+- [x] [Сталинград](https://www.kinopoisk.ru/series/392530/)
 
 ### Новая Зеландия
 
 - [x] [Реальные упыри](https://www.kinopoisk.ru/film/818981/)
 
-### Россия
+### Россия / СССР
 
+- [x] [9 рота](https://www.kinopoisk.ru/film/84674/)
 - [x] [Брат](https://www.kinopoisk.ru/film/41519/) и [Брат 2](https://www.kinopoisk.ru/film/41520/)
 - [x] [Ворошиловский стрелок](https://www.kinopoisk.ru/film/41442/)
 - [x] [Война](https://www.kinopoisk.ru/film/41431/)
@@ -51,9 +55,53 @@
 - [x] [Алеша Попович и Тугарин Змей](https://www.kinopoisk.ru/film/81041/)
 - [x] [Нелюбовь](https://www.kinopoisk.ru/film/963346/)
 - [x] [Айта](https://www.kinopoisk.ru/film/5104425/)
+- [x] [В бой идут одни «старики»](https://www.kinopoisk.ru/film/25108/)
+- [x] [Битва за Москву](https://www.kinopoisk.ru/series/46138/)
+- [x] [Сталинград](https://www.kinopoisk.ru/film/468196)
 
 ### США / Великобритания
 
+- [x] [Тихое место](https://www.kinopoisk.ru/film/1044906/)
+- [x] [Одиннадцать друзей Оушена](https://www.kinopoisk.ru/film/770/)
+- [x] [Дьявол носит Prada](https://www.kinopoisk.ru/film/104992/)
+- [x] [Оппенгеймер](https://www.kinopoisk.ru/film/4664634/)
+- [x] [Матч поинт](https://www.kinopoisk.ru/film/81530/)
+- [x] [Операция «Валькирия»](https://www.kinopoisk.ru/film/309475/)
+- [x] [Интервью с вампиром](https://www.kinopoisk.ru/film/8151/)
+- [x] [Война миров](https://www.kinopoisk.ru/film/81289/)
+- [x] [Солдаты неудачи](https://www.kinopoisk.ru/film/278208/)
+- [x] [Обливион](https://www.kinopoisk.ru/film/470185/)
+- [x] [Человек дождя](https://www.kinopoisk.ru/film/519/)
+- [x] [Особое мнение](https://www.kinopoisk.ru/film/496/)
+- [x] [Миротворец](https://www.kinopoisk.ru/film/4121/)
+- [x] [Колдунья](https://www.kinopoisk.ru/film/79562/)
+- [x] [Вторжение](https://www.kinopoisk.ru/film/161094/)
+- [x] [Клиника](https://www.kinopoisk.ru/series/251568/)
+- [x] [Доктор Хаус](https://www.kinopoisk.ru/series/178710/)
+- [x] [Теория большого взрыва](https://www.kinopoisk.ru/series/306084/)
+- [x] [Как я встретил вашу маму](https://www.kinopoisk.ru/series/401522/)
+- [x] [Мулен Руж](https://www.kinopoisk.ru/film/558/)
+- [x] [Холодная гора](https://www.kinopoisk.ru/film/1942/)
+- [x] [Грань будущего](https://www.kinopoisk.ru/film/505851/)
+- [x] [Миссия: невыполнима](https://www.kinopoisk.ru/film/3961/)
+- [x] [Последний самурай](https://www.kinopoisk.ru/film/6764/)
+- [x] [Братья по оружию](https://www.kinopoisk.ru/series/94249/)
+- [x] [Тихий океан](https://www.kinopoisk.ru/series/426030/)
+- [x] [Другой мир](https://www.kinopoisk.ru/film/8033/)
+- [x] [Семь лет в Тибете](https://www.kinopoisk.ru/film/5423/)
+- [x] [Мемуары гейши](https://www.kinopoisk.ru/film/77132/)
+- [x] [В белом плену](https://www.kinopoisk.ru/film/584612/)
+- [x] [Хеллбой II: Золотая армия](https://www.kinopoisk.ru/film/81472/)
+- [x] [Хеллбой: Герой из пекла](https://www.kinopoisk.ru/film/5052/)
+- [x] [Несломленный](https://www.kinopoisk.ru/film/577211/)
+- [x] [Первый мститель: Другая война](https://www.kinopoisk.ru/film/676266/)
+- [x] [Дюнкерк](https://www.kinopoisk.ru/film/931677/)
+- [x] [Враг у ворот](https://www.kinopoisk.ru/film/659/)
+- [x] [Перл Харбор](https://www.kinopoisk.ru/film/1957/)
+- [x] [Спасти рядового Райана](https://www.kinopoisk.ru/film/371/)
+- [x] [На Западном фронте без перемен](https://www.kinopoisk.ru/film/316376/)
+- [x] [1917](https://www.kinopoisk.ru/film/1171976/)
+- [x] [Ярость](https://www.kinopoisk.ru/film/740644/)
 - [x] [Хищник](https://www.kinopoisk.ru/film/6303/)
 - [x] [Звездные войны](https://www.kinopoisk.ru/film/6695/)
 - [x] [Робокоп](https://www.kinopoisk.ru/film/7410/?utm_referrer=www.google.com)
@@ -142,4 +190,4 @@
 - [x] [Последний отпуск](https://www.kinopoisk.ru/film/81746/)
 - [x] [ВАЛЛ·И](https://www.kinopoisk.ru/film/279102/)
 - [x] [Головоломка](https://www.kinopoisk.ru/film/645118/)
-- [x] [Джиперс Криперс](https://www.kinopoisk.ru/film/7316/?utm_referrer=www.google.com)
+- [x] [Джиперс Криперс](https://www.kinopoisk.ru/film/7316/)
