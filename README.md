@@ -50,6 +50,7 @@
 
 ### США / Великобритания
 
+- [x] [Робокоп](https://www.kinopoisk.ru/film/7410/?utm_referrer=www.google.com)
 - [x] [Поколение убийц](https://www.kinopoisk.ru/series/414891/)
 - [x] [Как я встретил вашу маму](https://www.kinopoisk.ru/series/401522/)
 - [x] [Матрица](https://www.kinopoisk.ru/film/301/)
