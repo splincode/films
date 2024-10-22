@@ -47,9 +47,15 @@
 - [x] [Война](https://www.kinopoisk.ru/film/41431/)
 - [x] [Легенда №17](https://www.kinopoisk.ru/film/601564/)
 - [x] [Брестская крепость](https://www.kinopoisk.ru/film/436263/)
+- [x] [Движение вверх](https://www.kinopoisk.ru/film/840817/)
+- [x] [Алеша Попович и Тугарин Змей](https://www.kinopoisk.ru/film/81041/)
+- [x] [Нелюбовь](https://www.kinopoisk.ru/film/963346/)
+- [x] [Айта](https://www.kinopoisk.ru/film/5104425/)
 
 ### США / Великобритания
 
+- [x] [Звездные войны](https://www.kinopoisk.ru/film/6695/)
+- [x] [Робокоп](https://www.kinopoisk.ru/film/7410/?utm_referrer=www.google.com)
 - [x] [Робокоп](https://www.kinopoisk.ru/film/7410/?utm_referrer=www.google.com)
 - [x] [Поколение убийц](https://www.kinopoisk.ru/series/414891/)
 - [x] [Как я встретил вашу маму](https://www.kinopoisk.ru/series/401522/)
