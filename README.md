@@ -54,6 +54,7 @@
 
 ### США / Великобритания
 
+- [x] [Хищник](https://www.kinopoisk.ru/film/6303/)
 - [x] [Звездные войны](https://www.kinopoisk.ru/film/6695/)
 - [x] [Робокоп](https://www.kinopoisk.ru/film/7410/?utm_referrer=www.google.com)
 - [x] [Робокоп](https://www.kinopoisk.ru/film/7410/?utm_referrer=www.google.com)
