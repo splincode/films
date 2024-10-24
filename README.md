@@ -67,6 +67,7 @@
 
 ### США / Великобритания
 
+- [x] [Запретное царство](https://www.kinopoisk.ru/film/271999/)
 - [x] [Тихое место](https://www.kinopoisk.ru/film/1044906/)
 - [x] [Одиннадцать друзей Оушена](https://www.kinopoisk.ru/film/770/)
 - [x] [Дьявол носит Prada](https://www.kinopoisk.ru/film/104992/)
@@ -274,11 +275,14 @@
 - [x] [Дракула](https://www.kinopoisk.ru/film/1727/)
 - [x] [Живая сталь](https://www.kinopoisk.ru/film/88198/)
 - [x] [Я, робот](https://www.kinopoisk.ru/film/4886/)
+- [x] [Вокруг света за 80 дней](https://www.kinopoisk.ru/film/6297/)
+- [x] [Каратэ-пацан](https://www.kinopoisk.ru/film/412162/)
 - [x] [Пила: Игра на выживание](https://www.kinopoisk.ru/film/64187/)
 - [x] [Город грехов](https://www.kinopoisk.ru/film/77443/)
 - [x] [Кошмар на улице Вязов](https://www.kinopoisk.ru/film/5198/)
 - [x] [Книга Илая](https://www.kinopoisk.ru/film/424266/)
 - [x] [Мистер и миссис Смит](https://www.kinopoisk.ru/film/12090/)
+- [x] [Кунг-фу Панда](https://www.kinopoisk.ru/film/103734/)
 - [x] [Типа крутые легавые](https://www.kinopoisk.ru/film/93377/)
 - [x] [Я – легенда](https://www.kinopoisk.ru/film/195524/)
 - [x] [Час пик](https://www.kinopoisk.ru/film/6345/)
