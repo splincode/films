@@ -64,6 +64,10 @@
 - [x] [Иван Васильевич меняет профессию](https://www.kinopoisk.ru/film/42664/)
 - [x] [Иди и смотри](https://www.kinopoisk.ru/film/42571/)
 - [x] [Экипаж](https://www.kinopoisk.ru/film/839818/)
+- [x] [Метро](https://www.kinopoisk.ru/film/521689/)
+- [x] [Грозовые ворота](https://www.kinopoisk.ru/series/252003/)
+- [x] [72 метра](https://www.kinopoisk.ru/film/70952/)
+- [x] [Диверсант](https://www.kinopoisk.ru/series/89607/)
 
 ### США / Великобритания
 
