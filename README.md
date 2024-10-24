@@ -1,4 +1,4 @@
-# Просмотренные фильмы или сериалы
+# Просмотренные фильмы / сериалы / мультики
 
 ###  Южная корея
 
@@ -313,4 +313,7 @@
 - [x] [Хроники Нарнии: Лев, колдунья и волшебный шкаф](https://www.kinopoisk.ru/film/48162/)
 - [x] [Супергеройское кино](https://www.kinopoisk.ru/film/195941/)
 - [x] [Горбатая гора](https://www.kinopoisk.ru/film/77647/)
+- [x] [Армагеддон](https://www.kinopoisk.ru/film/2941/)
+- [x] [Пандорум](https://www.kinopoisk.ru/film/422882/)
+- [x] [Гравитация](https://www.kinopoisk.ru/film/468466/)
 
