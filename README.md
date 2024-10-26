@@ -22,6 +22,7 @@
 
 - [x] [Унесённые призраками](https://www.kinopoisk.ru/film/370/)
 - [x] [Принцесса Мононоке](https://www.kinopoisk.ru/film/441/)
+- [x] [Годзилла: Минус один](https://www.kinopoisk.ru/film/5354707/)
 
 ### 🇫🇷 Франция
 
@@ -292,6 +293,8 @@
 - [x] [Рататуй](https://www.kinopoisk.ru/film/89514/)
 - [x] [Зомби по имени Шон](https://www.kinopoisk.ru/film/64021/)
 - [x] [Монстры на каникулах](https://www.kinopoisk.ru/film/280174/)
+- [x] [Годзилла 1998](https://www.kinopoisk.ru/film/4012/)
+- [x] [Годзилла](https://www.kinopoisk.ru/film/260991/)
 - [x] [Годзилла и Конг: Новая империя](https://www.kinopoisk.ru/film/4902648/)
 - [x] [Парфюмер: История одного убийцы](https://www.kinopoisk.ru/film/78378/)
 - [x] [2012](https://www.kinopoisk.ru/film/413447/)
@@ -322,4 +325,5 @@
 - [x] [Пандорум](https://www.kinopoisk.ru/film/422882/)
 - [x] [Гравитация](https://www.kinopoisk.ru/film/468466/)
 - [x] [Реальные упыри](https://www.kinopoisk.ru/film/818981/)
+- [x] [Бросок кобры](https://www.kinopoisk.ru/film/397496/)
 
