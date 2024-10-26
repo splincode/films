@@ -16,6 +16,7 @@
 - [x] [Игра в кальмара](https://www.kinopoisk.ru/series/1301710/)
 - [x] [Выход](https://www.kinopoisk.ru/film/1118187/)
 - [x] [Поезд в Пусан](https://www.kinopoisk.ru/film/977288/)
+- [x] [Возвращение в Сеул](https://www.kinopoisk.ru/film/4918257)
 
 ### Япония
 
