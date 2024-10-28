@@ -21,6 +21,7 @@
 ### 🇯🇵 Япония
 
 - [x] [Унесённые призраками](https://www.kinopoisk.ru/film/370/)
+- [x] [Ходячий замок](https://www.kinopoisk.ru/film/49684/)
 - [x] [Принцесса Мононоке](https://www.kinopoisk.ru/film/441/)
 - [x] [Годзилла: Минус один](https://www.kinopoisk.ru/film/5354707/)
 
@@ -325,6 +326,7 @@
 - [x] [Горбатая гора](https://www.kinopoisk.ru/film/77647/)
 - [x] [Армагеддон](https://www.kinopoisk.ru/film/2941/)
 - [x] [Пандорум](https://www.kinopoisk.ru/film/422882/)
+- [x] [Ральф против интернета](https://www.kinopoisk.ru/film/988782/)
 - [x] [Гравитация](https://www.kinopoisk.ru/film/468466/)
 - [x] [Реальные упыри](https://www.kinopoisk.ru/film/818981/)
 - [x] [Бросок кобры](https://www.kinopoisk.ru/film/397496/)
