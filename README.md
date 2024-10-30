@@ -59,6 +59,7 @@
 - [x] [Алеша Попович и Тугарин Змей](https://www.kinopoisk.ru/film/81041/)
 - [x] [Нелюбовь](https://www.kinopoisk.ru/film/963346/)
 - [x] [Айта](https://www.kinopoisk.ru/film/5104425/)
+- [x] [Любовь и голуби](https://www.kinopoisk.ru/film/45146/)
 - [x] [В бой идут одни «старики»](https://www.kinopoisk.ru/film/25108/)
 - [x] [Битва за Москву](https://www.kinopoisk.ru/series/46138/)
 - [x] [Сталинград](https://www.kinopoisk.ru/film/468196)
