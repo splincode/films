@@ -156,6 +156,7 @@
 - [x] [Люди в чёрном](https://www.kinopoisk.ru/film/1091/)
 - [x] [Шоу Трумана](https://www.kinopoisk.ru/film/4541/)
 - [x] [Игры разума](https://www.kinopoisk.ru/film/530/)
+- [x] [Звездная пыль](https://www.kinopoisk.ru/film/197863/)
 - [x] [Один дома](https://www.kinopoisk.ru/film/8124/)
 - [x] [Области тьмы](https://www.kinopoisk.ru/film/462606/)
 - [x] [Реквием по мечте](https://www.kinopoisk.ru/film/367/)
