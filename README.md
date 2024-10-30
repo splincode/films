@@ -245,6 +245,7 @@
 - [x] [Дэдпул](https://www.kinopoisk.ru/film/462360/)
 - [x] [Марс атакует](https://www.kinopoisk.ru/film/4173/)
 - [x] [101 далматинец](https://www.kinopoisk.ru/film/2380/)
+- [x] [Десятое королевство](https://www.kinopoisk.ru/series/77217/)
 - [x] [Дорогая, я уменьшил детей](https://www.kinopoisk.ru/film/8139/)
 - [x] [Охотники за привидениями](https://www.kinopoisk.ru/film/2467/)
 - [x] [Космические яйца](https://www.kinopoisk.ru/film/8954/)
