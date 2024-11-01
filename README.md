@@ -7,6 +7,7 @@
 - [x] [Любовное приземление](https://www.kinopoisk.ru/film/494417/)
 - [x] [Отель «Дель Луна»](https://www.kinopoisk.ru/series/1228049/)
 - [x] [Императрица Ки](https://www.kinopoisk.ru/series/808674/)
+- [x] [Служанка](https://www.kinopoisk.ru/film/851960/)
 - [x] [Паразиты](https://www.kinopoisk.ru/film/1043758/)
 - [x] [38-я параллель](https://www.kinopoisk.ru/film/80221/)
 - [x] [Извержение](https://www.kinopoisk.ru/film/1222769/)
