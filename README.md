@@ -22,15 +22,18 @@
 
 ### 🇯🇵 Япония
 
+- [x] [Годзилла: Минус один](https://www.kinopoisk.ru/film/5354707/)
+- [x] [Королевская битва](https://www.kinopoisk.ru/film/604/)
+
+###### Анимационные
+
 - [x] [Унесённые призраками](https://www.kinopoisk.ru/film/370/)
 - [x] [Ходячий замок](https://www.kinopoisk.ru/film/49684/)
 - [x] [Принцесса Мононоке](https://www.kinopoisk.ru/film/441/)
-- [x] [Годзилла: Минус один](https://www.kinopoisk.ru/film/5354707/)
 - [x] [Мальчик и птица](https://www.kinopoisk.ru/film/1071383/)
-- [x] [Королевская битва](https://www.kinopoisk.ru/film/604/)
+- [x] [Призрак в доспехах](https://www.kinopoisk.ru/film/8228/)
 - [x] [Манускрипт ниндзя](https://www.kinopoisk.ru/film/8233/)
 - [x] [Босоногий Гэн](https://www.kinopoisk.ru/film/252330/)
-- [x] [Призрак в доспехах](https://www.kinopoisk.ru/film/8228/)
 
 ### 🇫🇷 Франция
 
@@ -52,29 +55,37 @@
 - [x] [Бункер](https://www.kinopoisk.ru/film/48246/)
 - [x] [Сталинград](https://www.kinopoisk.ru/series/392530/)
 
-### 🇷🇺 Россия / ☭ СССР
+### 🇷🇺 Россия 
 
 - [x] [9 рота](https://www.kinopoisk.ru/film/84674/)
-- [x] [Брат](https://www.kinopoisk.ru/film/41519/) и [Брат 2](https://www.kinopoisk.ru/film/41520/)
+- [x] [Брат](https://www.kinopoisk.ru/film/41519/)
+- [x] [Брат 2](https://www.kinopoisk.ru/film/41520/)
 - [x] [Ворошиловский стрелок](https://www.kinopoisk.ru/film/41442/)
 - [x] [Война](https://www.kinopoisk.ru/film/41431/)
 - [x] [Легенда №17](https://www.kinopoisk.ru/film/601564/)
 - [x] [Брестская крепость](https://www.kinopoisk.ru/film/436263/)
 - [x] [Движение вверх](https://www.kinopoisk.ru/film/840817/)
-- [x] [Алеша Попович и Тугарин Змей](https://www.kinopoisk.ru/film/81041/)
 - [x] [Нелюбовь](https://www.kinopoisk.ru/film/963346/)
 - [x] [Айта](https://www.kinopoisk.ru/film/5104425/)
-- [x] [Любовь и голуби](https://www.kinopoisk.ru/film/45146/)
-- [x] [В бой идут одни «старики»](https://www.kinopoisk.ru/film/25108/)
-- [x] [Битва за Москву](https://www.kinopoisk.ru/series/46138/)
 - [x] [Сталинград](https://www.kinopoisk.ru/film/468196)
-- [x] [Иван Васильевич меняет профессию](https://www.kinopoisk.ru/film/42664/)
-- [x] [Иди и смотри](https://www.kinopoisk.ru/film/42571/)
 - [x] [Экипаж](https://www.kinopoisk.ru/film/839818/)
 - [x] [Метро](https://www.kinopoisk.ru/film/521689/)
 - [x] [Грозовые ворота](https://www.kinopoisk.ru/series/252003/)
 - [x] [72 метра](https://www.kinopoisk.ru/film/70952/)
 - [x] [Диверсант](https://www.kinopoisk.ru/series/89607/)
+
+###### ☭ СССР
+
+- [x] [Любовь и голуби](https://www.kinopoisk.ru/film/45146/)
+- [x] [В бой идут одни «старики»](https://www.kinopoisk.ru/film/25108/)
+- [x] [Битва за Москву](https://www.kinopoisk.ru/series/46138/)
+- [x] [Иван Васильевич меняет профессию](https://www.kinopoisk.ru/film/42664/)
+- [x] [Иди и смотри](https://www.kinopoisk.ru/film/42571/)
+
+###### Анимационные
+
+- [x] [Алеша Попович и Тугарин Змей](https://www.kinopoisk.ru/film/81041/)
+- [x] [Князь Владимир](https://www.kinopoisk.ru/film/103370/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
