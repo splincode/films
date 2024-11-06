@@ -8,6 +8,7 @@
 - [x] [Отель «Дель Луна»](https://www.kinopoisk.ru/series/1228049/)
 - [x] [Императрица Ки](https://www.kinopoisk.ru/series/808674/)
 - [x] [Служанка](https://www.kinopoisk.ru/film/851960/)
+- [x] [Воспоминания об убийстве](https://www.kinopoisk.ru/film/65770/)
 - [x] [Паразиты](https://www.kinopoisk.ru/film/1043758/)
 - [x] [38-я параллель](https://www.kinopoisk.ru/film/80221/)
 - [x] [Извержение](https://www.kinopoisk.ru/film/1222769/)
@@ -76,6 +77,8 @@
 - [x] [Грозовые ворота](https://www.kinopoisk.ru/series/252003/)
 - [x] [72 метра](https://www.kinopoisk.ru/film/70952/)
 - [x] [Диверсант](https://www.kinopoisk.ru/series/89607/)
+- [x] [Волкодав из рода Серых Псов](https://www.kinopoisk.ru/film/81371/)
+- [x] [Солнцепек](https://www.kinopoisk.ru/film/4518766/)
 
 ###### ☭ СССР
 
