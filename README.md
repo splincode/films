@@ -20,6 +20,7 @@
 - [x] [Поезд в Пусан](https://www.kinopoisk.ru/film/977288/)
 - [x] [Возвращение в Сеул](https://www.kinopoisk.ru/film/4918257)
 - [x] [Завтра](https://www.kinopoisk.ru/series/4493018/)
+- [x] [Демон](https://www.kinopoisk.ru/series/996611/)
 
 ### 🇯🇵 Япония
 
