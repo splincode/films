@@ -446,3 +446,5 @@
 - [x] [Рапунцель: Запутанная история](https://www.kinopoisk.ru/film/84049/)
 - [x] [Труп невесты](https://www.kinopoisk.ru/film/77548/)
 - [x] [Монстры против пришельцев](https://www.kinopoisk.ru/film/280173/)
+- [x] [Корпорация монстров](https://www.kinopoisk.ru/film/458/)
+- [x] [Университет монстров](https://www.kinopoisk.ru/film/468904/)
