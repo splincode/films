@@ -56,6 +56,10 @@
 
 - [x] [Астрал. Ночной кошмар](https://www.kinopoisk.ru/film/5459704/)
 
+### 🇮🇳 Индия
+
+- [x] [Миллионер из трущоб](https://www.kinopoisk.ru/film/413362/)
+
 ### 🇩🇪 Германия
 
 - [x] [Достучаться до небес](https://www.kinopoisk.ru/film/32898/)
