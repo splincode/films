@@ -255,6 +255,7 @@
 - [x] [Нечто](https://www.kinopoisk.ru/film/8366/)
 - [x] [Реальная любовь](https://www.kinopoisk.ru/film/6144/)
 - [x] [Пролетая над гнездом кукушки](https://www.kinopoisk.ru/film/336/)
+- [x] [Ход королевы](https://www.kinopoisk.ru/series/1253633)
 - [x] [День сурка](https://www.kinopoisk.ru/film/527/)
 - [x] [Терминатор](https://www.kinopoisk.ru/film/507/)
 - [x] [Соломон Кейн](https://www.kinopoisk.ru/film/279791/)
