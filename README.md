@@ -67,6 +67,8 @@
 - [x] [1899](https://www.kinopoisk.ru/series/4308621/)
 - [x] [Бункер](https://www.kinopoisk.ru/film/48246/)
 - [x] [Сталинград](https://www.kinopoisk.ru/series/392530/)
+- [x] [Наши матери, наши отцы](https://www.kinopoisk.ru/series/618935/)
+- [x] [На Западном фронте без перемен](https://www.kinopoisk.ru/film/316376/)
 
 ### 🇷🇺 Россия 
 
@@ -85,6 +87,7 @@
 - [x] [Сталинград](https://www.kinopoisk.ru/film/468196)
 - [x] [Экипаж](https://www.kinopoisk.ru/film/839818/)
 - [x] [Метро](https://www.kinopoisk.ru/film/521689/)
+- [x] [Звезда](https://www.kinopoisk.ru/film/41360/)
 - [x] [Грозовые ворота](https://www.kinopoisk.ru/series/252003/)
 - [x] [72 метра](https://www.kinopoisk.ru/film/70952/)
 - [x] [Диверсант](https://www.kinopoisk.ru/series/89607/)
@@ -95,9 +98,14 @@
 
 - [x] [Любовь и голуби](https://www.kinopoisk.ru/film/45146/)
 - [x] [В бой идут одни «старики»](https://www.kinopoisk.ru/film/25108/)
+- [x] [Контрудар](https://www.kinopoisk.ru/film/44906/)
+- [x] [Солдат Иван Бровкин](https://www.kinopoisk.ru/film/43899/)
 - [x] [Битва за Москву](https://www.kinopoisk.ru/series/46138/)
+- [x] [Освобождение: Последний штурм](https://www.kinopoisk.ru/film/392541/)
+- [x] [Освобождение: Битва за Берлин](https://www.kinopoisk.ru/film/392541/)
 - [x] [Иван Васильевич меняет профессию](https://www.kinopoisk.ru/film/42664/)
 - [x] [Иди и смотри](https://www.kinopoisk.ru/film/42571/)
+- [x] [Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей ](https://www.kinopoisk.ru/film/77263/)
 
 ###### Анимационные
 
@@ -169,7 +177,6 @@
 - [x] [Враг у ворот](https://www.kinopoisk.ru/film/659/)
 - [x] [Перл Харбор](https://www.kinopoisk.ru/film/1957/)
 - [x] [Спасти рядового Райана](https://www.kinopoisk.ru/film/371/)
-- [x] [На Западном фронте без перемен](https://www.kinopoisk.ru/film/316376/)
 - [x] [1917](https://www.kinopoisk.ru/film/1171976/)
 - [x] [Ярость](https://www.kinopoisk.ru/film/740644/)
 - [x] [Хищник](https://www.kinopoisk.ru/film/6303/)
