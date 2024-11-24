@@ -32,6 +32,7 @@
 - [x] [Унесённые призраками](https://www.kinopoisk.ru/film/370/)
 - [x] [Ходячий замок](https://www.kinopoisk.ru/film/49684/)
 - [x] [Принцесса Мононоке](https://www.kinopoisk.ru/film/441/)
+- [x] [Жаркое лето](https://www.kinopoisk.ru/series/412521/)
 - [x] [Мальчик и птица](https://www.kinopoisk.ru/film/1071383/)
 - [x] [Призрак в доспехах](https://www.kinopoisk.ru/film/8228/)
 - [x] [Манускрипт ниндзя](https://www.kinopoisk.ru/film/8233/)
@@ -93,6 +94,9 @@
 - [x] [Диверсант](https://www.kinopoisk.ru/series/89607/)
 - [x] [Волкодав из рода Серых Псов](https://www.kinopoisk.ru/film/81371/)
 - [x] [Солнцепек](https://www.kinopoisk.ru/film/4518766/)
+- [x] [Универ](https://www.kinopoisk.ru/series/421897/)
+- [x] [Универ. Новая общага](https://www.kinopoisk.ru/series/630165/)
+- [x] [СашаТаня](https://www.kinopoisk.ru/series/630232/)
 
 ###### ☭ СССР
 
@@ -436,6 +440,7 @@
 - [x] [127 часов](https://www.kinopoisk.ru/film/484878/)
 - [x] [99 франков](https://www.kinopoisk.ru/film/262771/)
 - [x] [Хроники Нарнии: Лев, колдунья и волшебный шкаф](https://www.kinopoisk.ru/film/48162/)
+- [x] [Хроники Нарнии: Принц Каспиан](https://www.kinopoisk.ru/film/243596/)
 - [x] [Супергеройское кино](https://www.kinopoisk.ru/film/195941/)
 - [x] [Горбатая гора](https://www.kinopoisk.ru/film/77647/)
 - [x] [Автостопом по галактике](https://www.kinopoisk.ru/film/79834/)
@@ -444,6 +449,9 @@
 - [x] [Гравитация](https://www.kinopoisk.ru/film/468466/)
 - [x] [Реальные упыри](https://www.kinopoisk.ru/film/818981/)
 - [x] [Бросок кобры](https://www.kinopoisk.ru/film/397496/)
+- [x] [Полицейская академия](https://www.kinopoisk.ru/film/21205/)
+- [x] [Полицейская академия 2: Их первое задание](https://www.kinopoisk.ru/film/4182/)
+- [x] [Полицейская академия 3: Переподготовка](https://www.kinopoisk.ru/film/4966/)
 
 ###### Анимационные
 
@@ -463,3 +471,5 @@
 - [x] [Монстры против пришельцев](https://www.kinopoisk.ru/film/280173/)
 - [x] [Корпорация монстров](https://www.kinopoisk.ru/film/458/)
 - [x] [Университет монстров](https://www.kinopoisk.ru/film/468904/)
+- [x] [Финес и Ферб](https://www.kinopoisk.ru/series/449993/)
+- [x] [Котопес](https://www.kinopoisk.ru/series/281893/)
