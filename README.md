@@ -57,6 +57,10 @@
 
 - [x] [Астрал. Ночной кошмар](https://www.kinopoisk.ru/film/5459704/)
 
+### 🇧🇷 Бразилия
+
+- [x] [Клон](https://www.kinopoisk.ru/series/161151/)
+
 ### 🇮🇳 Индия
 
 - [x] [Миллионер из трущоб](https://www.kinopoisk.ru/film/413362/)
@@ -87,7 +91,10 @@
 - [x] [Брестская крепость](https://www.kinopoisk.ru/film/436263/)
 - [x] [Сталинград](https://www.kinopoisk.ru/film/468196)
 - [x] [Экипаж](https://www.kinopoisk.ru/film/839818/)
+- [x] [Обручальное кольцо](https://www.kinopoisk.ru/series/436269/)
 - [x] [Метро](https://www.kinopoisk.ru/film/521689/)
+- [x] [Кухня](https://www.kinopoisk.ru/series/687595/)
+- [x] [Кухня в Париже](https://www.kinopoisk.ru/film/795847/)
 - [x] [Звезда](https://www.kinopoisk.ru/film/41360/)
 - [x] [Грозовые ворота](https://www.kinopoisk.ru/series/252003/)
 - [x] [72 метра](https://www.kinopoisk.ru/film/70952/)
