@@ -396,6 +396,7 @@
 - [x] [Париж. Город Zомби](https://www.kinopoisk.ru/film/988157/)
 - [x] [Гордость и предубеждение и зомби](https://www.kinopoisk.ru/film/491816/)
 - [x] [Я – легенда](https://www.kinopoisk.ru/film/195524/)
+- [x] [Бруклин 9-9](https://www.kinopoisk.ru/series/714102/)
 - [x] [Звездный десант](https://www.kinopoisk.ru/film/6025/)
 - [x] [Час пик](https://www.kinopoisk.ru/film/6345/)
 - [x] [Эта дурацкая любовь](https://www.kinopoisk.ru/film/493992/)
