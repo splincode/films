@@ -103,6 +103,7 @@
 - [x] [Любовь и голуби](https://www.kinopoisk.ru/film/45146/)
 - [x] [В бой идут одни «старики»](https://www.kinopoisk.ru/film/25108/)
 - [x] [Контрудар](https://www.kinopoisk.ru/film/44906/)
+- [x] [Сашка](https://www.kinopoisk.ru/film/43624/)
 - [x] [Солдат Иван Бровкин](https://www.kinopoisk.ru/film/43899/)
 - [x] [Битва за Москву](https://www.kinopoisk.ru/series/46138/)
 - [x] [Освобождение: Последний штурм](https://www.kinopoisk.ru/film/392541/)
