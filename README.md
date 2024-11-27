@@ -301,6 +301,7 @@
 - [x] [Отряд самоубийц](https://www.kinopoisk.ru/film/468522/)
 - [x] [Другие](https://www.kinopoisk.ru/film/494/)
 - [x] [Неуязвимый](https://www.kinopoisk.ru/film/866/)
+- [x] [Хищные птицы: Потрясающая история Харли Квинн](https://www.kinopoisk.ru/film/1111004/)
 - [x] [Репортаж](https://www.kinopoisk.ru/film/325598/)
 - [x] [Стражи Галактики](https://www.kinopoisk.ru/film/689066/)
 - [x] [Игра престолов](https://www.kinopoisk.ru/series/464963/)
