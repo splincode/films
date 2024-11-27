@@ -256,6 +256,7 @@
 - [x] [Аватар](https://www.kinopoisk.ru/film/251733/)
 - [x] [Загадочная история Бенджамина Баттона](https://www.kinopoisk.ru/film/81555/)
 - [x] [Чужой](https://www.kinopoisk.ru/film/386/)
+- [x] [Мюнхен](https://www.kinopoisk.ru/film/81287/)
 - [x] [Исчезнувшая](https://www.kinopoisk.ru/film/692861/)
 - [x] [Форсаж](https://www.kinopoisk.ru/film/666/)
 - [x] [Двойной форсаж](https://www.kinopoisk.ru/film/323/)
