@@ -346,6 +346,7 @@
 - [x] [Чужой 4: Воскрешение](https://www.kinopoisk.ru/film/3935/)
 - [x] [Веном](https://www.kinopoisk.ru/film/463634/)
 - [x] [Дэдпул](https://www.kinopoisk.ru/film/462360/)
+- [x] [Дэдпул 2](https://www.kinopoisk.ru/film/961715/)
 - [x] [Марс атакует](https://www.kinopoisk.ru/film/4173/)
 - [x] [101 далматинец](https://www.kinopoisk.ru/film/2380/)
 - [x] [Десятое королевство](https://www.kinopoisk.ru/series/77217/)
