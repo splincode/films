@@ -378,6 +378,7 @@
 - [x] [Эдвард руки-ножницы](https://www.kinopoisk.ru/film/8421/)
 - [x] [Алиса в Стране чудес](https://www.kinopoisk.ru/film/405609/)
 - [x] [Секс в большом городе](https://www.kinopoisk.ru/series/77042/)
+- [x] [Приключения Шаркбоя и Лавы](https://www.kinopoisk.ru/film/84201)
 - [x] [Атлас](https://www.kinopoisk.ru/film/4477073/)
 - [x] [Облачный атлас](https://www.kinopoisk.ru/film/464484/)
 - [x] [Любовь зла](https://www.kinopoisk.ru/film/827/)
