@@ -179,6 +179,7 @@
 - [x] [Миссия: невыполнима](https://www.kinopoisk.ru/film/3961/)
 - [x] [Последний самурай](https://www.kinopoisk.ru/film/6764/)
 - [x] [Братья по оружию](https://www.kinopoisk.ru/series/94249/)
+- [x] [Зеленый Фонарь](https://www.kinopoisk.ru/film/406294/)
 - [x] [Тихий океан](https://www.kinopoisk.ru/series/426030/)
 - [x] [Другой мир](https://www.kinopoisk.ru/film/8033/)
 - [x] [Семь лет в Тибете](https://www.kinopoisk.ru/film/5423/)
