@@ -47,6 +47,7 @@
 - [x] [Такси 4](https://www.kinopoisk.ru/film/258478/)
 - [x] [Амели](https://www.kinopoisk.ru/film/341/)
 - [x] [Васаби](https://www.kinopoisk.ru/film/14288/)
+- [x] [Жанна д'Арк](https://www.kinopoisk.ru/film/4513/)
 - [x] [Париж, я люблю тебя](https://www.kinopoisk.ru/film/77437/)
 
 ### 🇮🇹 Италия
@@ -235,6 +236,8 @@
 - [x] [Законопослушный гражданин](https://www.kinopoisk.ru/film/406408/)
 - [x] [Семь](https://www.kinopoisk.ru/film/377/)
 - [x] [Люди в чёрном](https://www.kinopoisk.ru/film/1091/)
+- [x] [Люди в чёрном 2](https://www.kinopoisk.ru/film/6379/)
+- [x] [Люди в черном 3](https://www.kinopoisk.ru/film/455773/)
 - [x] [Шоу Трумана](https://www.kinopoisk.ru/film/4541/)
 - [x] [Игры разума](https://www.kinopoisk.ru/film/530/)
 - [x] [Звездная пыль](https://www.kinopoisk.ru/film/197863/)
