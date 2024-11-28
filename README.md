@@ -52,6 +52,7 @@
 ### 🇮🇹 Италия
 
 - [x] [Жизнь прекрасна](https://www.kinopoisk.ru/film/381/)
+- [x] [Малена](https://www.kinopoisk.ru/film/747/)
 
 ### 🇮🇩 Индонезия
 
