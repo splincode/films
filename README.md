@@ -41,6 +41,7 @@
 ### 🇫🇷 Франция
 
 - [x] [1+1](https://www.kinopoisk.ru/film/535341/)
+- [x] [Влюбись в меня, если осмелишься](https://www.kinopoisk.ru/film/63920/)
 - [x] [Такси](https://www.kinopoisk.ru/film/14349/)
 - [x] [Такси 2](https://www.kinopoisk.ru/film/854/)
 - [x] [Такси 3](https://www.kinopoisk.ru/film/14339/)
