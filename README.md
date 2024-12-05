@@ -77,6 +77,7 @@
 - [x] [Достучаться до небес](https://www.kinopoisk.ru/film/32898/)
 - [x] [Тьма](https://www.kinopoisk.ru/series/1032606/)
 - [x] [1899](https://www.kinopoisk.ru/series/4308621/)
+- [x] [Побег из Гулага](https://www.kinopoisk.ru/film/52408/)
 - [x] [Бункер](https://www.kinopoisk.ru/film/48246/)
 - [x] [Сталинград](https://www.kinopoisk.ru/series/392530/)
 - [x] [Наши матери, наши отцы](https://www.kinopoisk.ru/series/618935/)
