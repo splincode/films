@@ -427,7 +427,6 @@
 - [x] [Книга Илая](https://www.kinopoisk.ru/film/424266/)
 - [x] [Кейт и Лео](https://www.kinopoisk.ru/film/724/)
 - [x] [Мистер и миссис Смит](https://www.kinopoisk.ru/film/12090/)
-- [x] [Кунг-фу Панда](https://www.kinopoisk.ru/film/103734/)
 - [x] [Типа крутые легавые](https://www.kinopoisk.ru/film/93377/)
 - [x] [Финес и Ферб](https://www.kinopoisk.ru/series/449993/)
 - [x] [Мобильник](https://www.kinopoisk.ru/film/738387/)
@@ -488,9 +487,12 @@
 ###### Анимационные
 
 - [x] [Монстры на каникулах](https://www.kinopoisk.ru/film/280174/)
+- [x] [Шрэк](https://www.kinopoisk.ru/film/430)
+- [x] [Подводная братва](https://www.kinopoisk.ru/film/7464/)
 - [x] [Ральф против интернета](https://www.kinopoisk.ru/film/988782/)
 - [x] [Дом-монстр](https://www.kinopoisk.ru/film/77601/)
 - [x] [Холодное сердце](https://www.kinopoisk.ru/film/493208/)
+- [x] [Кунг-фу Панда](https://www.kinopoisk.ru/film/103734/)
 - [x] [Гадкий я](https://www.kinopoisk.ru/film/432724/)
 - [x] [Рататуй](https://www.kinopoisk.ru/film/89514/)
 - [x] [Гравити Фолз](https://www.kinopoisk.ru/series/591929/)
