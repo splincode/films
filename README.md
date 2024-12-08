@@ -85,6 +85,7 @@
 
 ### 🇷🇺 Россия 
 
+- [x] [Волшебный портрет](https://www.kinopoisk.ru/film/41439/)
 - [x] [9 рота](https://www.kinopoisk.ru/film/84674/)
 - [x] [Брат](https://www.kinopoisk.ru/film/41519/)
 - [x] [Брат 2](https://www.kinopoisk.ru/film/41520/)
