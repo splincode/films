@@ -299,6 +299,7 @@
 - [x] [День сурка](https://www.kinopoisk.ru/film/527/)
 - [x] [Терминатор](https://www.kinopoisk.ru/film/507/)
 - [x] [Соломон Кейн](https://www.kinopoisk.ru/film/279791/)
+- [x] [Президент Линкольн: Охотник на вампиров](https://www.kinopoisk.ru/film/502302/)
 - [x] [Семьянин](https://www.kinopoisk.ru/film/664/)
 - [x] [Эффект бабочки](https://www.kinopoisk.ru/film/5167/)
 - [x] [Во всем виноват енот](https://www.kinopoisk.ru/film/945153/)
