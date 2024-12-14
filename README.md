@@ -341,6 +341,7 @@
 - [x] [Обитель зла](https://www.kinopoisk.ru/film/801/)
 - [x] [Халк](https://www.kinopoisk.ru/film/7962/)
 - [x] [Меч короля Артура](https://www.kinopoisk.ru/film/824437/)
+- [x] [Власть огня](https://www.kinopoisk.ru/film/5207)
 - [x] [Шестое чувство](https://www.kinopoisk.ru/film/395/)
 - [x] [Черный ястреб](https://www.kinopoisk.ru/film/612/)
 - [x] [Инопланетное вторжение: Битва за Лос-Анджелес](https://www.kinopoisk.ru/film/427542/)
