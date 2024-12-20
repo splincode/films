@@ -501,6 +501,7 @@
 - [x] [Подводная братва](https://www.kinopoisk.ru/film/7464/)
 - [x] [Ральф против интернета](https://www.kinopoisk.ru/film/988782/)
 - [x] [Дом-монстр](https://www.kinopoisk.ru/film/77601/)
+- [x] [Лило и Стич](https://www.kinopoisk.ru/film/740/)
 - [x] [Холодное сердце](https://www.kinopoisk.ru/film/493208/)
 - [x] [Кунг-фу Панда](https://www.kinopoisk.ru/film/103734/)
 - [x] [Гадкий я](https://www.kinopoisk.ru/film/432724/)
