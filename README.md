@@ -274,6 +274,7 @@
 - [x] [Мюнхен](https://www.kinopoisk.ru/film/81287/)
 - [x] [Исчезнувшая](https://www.kinopoisk.ru/film/692861/)
 - [x] [Форсаж](https://www.kinopoisk.ru/film/666/)
+- [x] [Лекарство от здоровья](https://www.kinopoisk.ru/film/915111)
 - [x] [Двойной форсаж](https://www.kinopoisk.ru/film/323/)
 - [x] [Тройной форсаж: Токийский дрифт](https://www.kinopoisk.ru/film/106079/)
 - [x] [Форсаж 5](https://www.kinopoisk.ru/film/496943/)
