@@ -235,6 +235,7 @@
 - [x] [Гарри Поттер](https://www.kinopoisk.ru/film/689/)
 - [x] [Престиж](https://www.kinopoisk.ru/film/195334/)
 - [x] [Дюна](https://www.kinopoisk.ru/film/409424/)
+- [x] [Небесный капитан и мир будущего](https://www.kinopoisk.ru/film/13625/)
 - [x] [Человек из стали](https://www.kinopoisk.ru/film/252667/)
 - [x] [Карты, деньги, два ствола](https://www.kinopoisk.ru/film/522/)
 - [x] [Джанго освобожденный](https://www.kinopoisk.ru/film/586397/)
