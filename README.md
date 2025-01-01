@@ -93,6 +93,7 @@
 
 - [x] [Волшебный портрет](https://www.kinopoisk.ru/film/41439/)
 - [x] [9 рота](https://www.kinopoisk.ru/film/84674/)
+- [x] [Всё будет хорошо](https://www.kinopoisk.ru/film/41455/)
 - [x] [Брат](https://www.kinopoisk.ru/film/41519/)
 - [x] [Брат 2](https://www.kinopoisk.ru/film/41520/)
 - [x] [Ворошиловский стрелок](https://www.kinopoisk.ru/film/41442/)
