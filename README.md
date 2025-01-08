@@ -62,6 +62,10 @@
 - [x] [Жизнь прекрасна](https://www.kinopoisk.ru/film/381/)
 - [x] [Малена](https://www.kinopoisk.ru/film/747/)
 
+### 🇪🇸 Испания
+
+- [x] [Дневники нимфоманки](https://www.kinopoisk.ru/film/428816/)
+
 ### 🇮🇩 Индонезия
 
 - [x] [Астрал. Ночной кошмар](https://www.kinopoisk.ru/film/5459704/)
