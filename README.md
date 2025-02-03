@@ -111,6 +111,7 @@
 - [x] [Брестская крепость](https://www.kinopoisk.ru/film/436263/)
 - [x] [Сталинград](https://www.kinopoisk.ru/film/468196)
 - [x] [Экипаж](https://www.kinopoisk.ru/film/839818/)
+- [x] [Адмиралъ](https://www.kinopoisk.ru/film/280938/)
 - [x] [Обручальное кольцо](https://www.kinopoisk.ru/series/436269/)
 - [x] [Метро](https://www.kinopoisk.ru/film/521689/)
 - [x] [Кухня](https://www.kinopoisk.ru/series/687595/)
@@ -138,6 +139,10 @@
 - [x] [Иван Васильевич меняет профессию](https://www.kinopoisk.ru/film/42664/)
 - [x] [Иди и смотри](https://www.kinopoisk.ru/film/42571/)
 - [x] [Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей ](https://www.kinopoisk.ru/film/77263/)
+- [x] [Война и мир: Андрей Болконский](https://www.kinopoisk.ru/film/45817/)
+- [x] [Война и мир: Наташа Ростова](https://www.kinopoisk.ru/film/45818/)
+- [x] [Война и мир: 1812 год](https://www.kinopoisk.ru/film/45819/)
+- [x] [Война и мир: Пьер Безухов](https://www.kinopoisk.ru/film/45820/)
 
 ###### Анимационные
 
