@@ -117,14 +117,19 @@
 - [x] [Кухня](https://www.kinopoisk.ru/series/687595/)
 - [x] [Кухня в Париже](https://www.kinopoisk.ru/film/795847/)
 - [x] [Звезда](https://www.kinopoisk.ru/film/41360/)
+- [x] [Салют-7](https://www.kinopoisk.ru/film/893506/)
 - [x] [Грозовые ворота](https://www.kinopoisk.ru/series/252003/)
 - [x] [72 метра](https://www.kinopoisk.ru/film/70952/)
+- [x] [Штрафбат](https://www.kinopoisk.ru/series/84342/)
+- [x] [Гитлер капут!](https://www.kinopoisk.ru/film/396473/)
+- [x] [Чёрная Молния](https://www.kinopoisk.ru/film/439906/)
 - [x] [Диверсант](https://www.kinopoisk.ru/series/89607/)
 - [x] [Волкодав из рода Серых Псов](https://www.kinopoisk.ru/film/81371/)
 - [x] [Солнцепек](https://www.kinopoisk.ru/film/4518766/)
 - [x] [Универ](https://www.kinopoisk.ru/series/421897/)
 - [x] [Универ. Новая общага](https://www.kinopoisk.ru/series/630165/)
 - [x] [СашаТаня](https://www.kinopoisk.ru/series/630232/)
+- [x] [Участок](https://www.kinopoisk.ru/series/89595/)
 
 ###### ☭ СССР
 
