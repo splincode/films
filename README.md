@@ -517,6 +517,10 @@
 - [x] [Полицейская академия](https://www.kinopoisk.ru/film/21205/)
 - [x] [Полицейская академия 2: Их первое задание](https://www.kinopoisk.ru/film/4182/)
 - [x] [Полицейская академия 3: Переподготовка](https://www.kinopoisk.ru/film/4966/)
+- [x] [Американский пирог](https://www.kinopoisk.ru/film/5129/)
+- [x] [Американский пирог 2](https://www.kinopoisk.ru/film/587/)
+- [x] [Американский пирог 3: Свадьба](https://www.kinopoisk.ru/film/4300/)
+- [x] [Американский пирог: Музыкальный лагерь](https://www.kinopoisk.ru/film/87387/)
 
 ###### Анимационные
 
