@@ -218,6 +218,7 @@
 - [x] [Другой мир](https://www.kinopoisk.ru/film/8033/)
 - [x] [Семь лет в Тибете](https://www.kinopoisk.ru/film/5423/)
 - [x] [Мемуары гейши](https://www.kinopoisk.ru/film/77132/)
+- [x] [В джазе только девушки](https://www.kinopoisk.ru/film/356)
 - [x] [В белом плену](https://www.kinopoisk.ru/film/584612/)
 - [x] [Хеллбой II: Золотая армия](https://www.kinopoisk.ru/film/81472/)
 - [x] [Хеллбой: Герой из пекла](https://www.kinopoisk.ru/film/5052/)
