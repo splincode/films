@@ -244,6 +244,7 @@
 - [x] [Поколение убийц](https://www.kinopoisk.ru/series/414891/)
 - [x] [Как я встретил вашу маму](https://www.kinopoisk.ru/series/401522/)
 - [x] [Матрица](https://www.kinopoisk.ru/film/301/)
+- [x] [Тысяча слов](https://www.kinopoisk.ru/film/395709/)
 - [x] [Интерстеллар](https://www.kinopoisk.ru/film/258687/)
 - [x] [Побег из Шоушенка](https://www.kinopoisk.ru/film/326/)
 - [x] [Зеленая миля](https://www.kinopoisk.ru/film/435/)
