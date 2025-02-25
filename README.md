@@ -196,6 +196,7 @@
 - [x] [Человек дождя](https://www.kinopoisk.ru/film/519/)
 - [x] [Крикуны](https://www.kinopoisk.ru/film/28214/)
 - [x] [Враг у ворот](https://www.kinopoisk.ru/film/659/)
+- [x] [Знакомьтесь: Дэйв](https://www.kinopoisk.ru/film/267621/)
 - [x] [Особое мнение](https://www.kinopoisk.ru/film/496/)
 - [x] [Миротворец](https://www.kinopoisk.ru/film/4121/)
 - [x] [Леон](https://www.kinopoisk.ru/film/389/)
