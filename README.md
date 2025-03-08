@@ -582,3 +582,4 @@
 - [x] [Университет монстров](https://www.kinopoisk.ru/film/468904/)
 - [x] [Финес и Ферб](https://www.kinopoisk.ru/series/449993/)
 - [x] [Котопес](https://www.kinopoisk.ru/series/281893/)
+- [x] [Спирит: Душа прерий](https://www.kinopoisk.ru/film/839/)
