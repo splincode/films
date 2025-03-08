@@ -583,3 +583,4 @@
 - [x] [Финес и Ферб](https://www.kinopoisk.ru/series/449993/)
 - [x] [Котопес](https://www.kinopoisk.ru/series/281893/)
 - [x] [Спирит: Душа прерий](https://www.kinopoisk.ru/film/839/)
+- [x] [Братец медвежонок](https://www.kinopoisk.ru/film/8057/)
