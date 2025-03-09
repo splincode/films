@@ -390,6 +390,7 @@
 - [x] [Бегущий в лабиринте](https://www.kinopoisk.ru/film/575613/)
 - [x] [Джиперс Криперс](https://www.kinopoisk.ru/film/7316/)
 - [x] [28 дней спустя](https://www.kinopoisk.ru/film/577/)
+- [x] [Корабль-призрак](https://www.kinopoisk.ru/film/5901)
 - [x] [Авиатор](https://www.kinopoisk.ru/film/6374/)
 - [x] [Зловещие мертвецы](https://www.kinopoisk.ru/film/2894/)
 - [x] [Рассвет мертвецов](https://www.kinopoisk.ru/film/36544/)
