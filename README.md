@@ -585,3 +585,4 @@
 - [x] [Котопес](https://www.kinopoisk.ru/series/281893/)
 - [x] [Спирит: Душа прерий](https://www.kinopoisk.ru/film/839/)
 - [x] [Братец медвежонок](https://www.kinopoisk.ru/film/8057/)
+- [x] [Братец медвежонок 2: Лоси в бегах](https://www.kinopoisk.ru/film/229903/)
