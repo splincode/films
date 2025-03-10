@@ -558,6 +558,10 @@
 
 ###### Анимационные
 
+- [x] [Ледниковый период](https://www.kinopoisk.ru/film/707/)
+- [x] [Ледниковый период 2: Глобальное потепление](https://www.kinopoisk.ru/film/86204/)
+- [x] [Ледниковый период 3: Эра динозавров](https://www.kinopoisk.ru/film/392930/)
+- [x] [Ледниковый период 4: Континентальный дрейф](https://www.kinopoisk.ru/film/522180/)
 - [x] [Райя и последний дракон](https://www.kinopoisk.ru/film/1015471/)
 - [x] [Монстры на каникулах](https://www.kinopoisk.ru/film/280174/)
 - [x] [Шрэк](https://www.kinopoisk.ru/film/430)
@@ -587,3 +591,4 @@
 - [x] [Спирит: Душа прерий](https://www.kinopoisk.ru/film/839/)
 - [x] [Братец медвежонок](https://www.kinopoisk.ru/film/8057/)
 - [x] [Братец медвежонок 2: Лоси в бегах](https://www.kinopoisk.ru/film/229903/)
+- [x] [Американский папаша](https://www.kinopoisk.ru/series/258054/)
