@@ -145,6 +145,8 @@
 - [x] [Универ. Новая общага](https://www.kinopoisk.ru/series/630165/)
 - [x] [СашаТаня](https://www.kinopoisk.ru/series/630232/)
 - [x] [Участок](https://www.kinopoisk.ru/series/89595/)
+- [x] [Любовь в большом городе](https://www.kinopoisk.ru/film/430602/)
+- [x] [Любовь в большом городе 2](https://www.kinopoisk.ru/film/451127/)
 
 ###### ☭ СССР
 
