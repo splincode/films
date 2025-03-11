@@ -235,6 +235,7 @@
 - [x] [Зеленый Фонарь](https://www.kinopoisk.ru/film/406294/)
 - [x] [Тихий океан](https://www.kinopoisk.ru/series/426030/)
 - [x] [Другой мир](https://www.kinopoisk.ru/film/8033/)
+- [x] [И грянул гром](https://www.kinopoisk.ru/film/4473/)
 - [x] [Семь лет в Тибете](https://www.kinopoisk.ru/film/5423/)
 - [x] [Мемуары гейши](https://www.kinopoisk.ru/film/77132/)
 - [x] [Поменяться местами](https://www.kinopoisk.ru/film/5285/)
