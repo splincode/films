@@ -151,6 +151,7 @@
 - [x] [Участок](https://www.kinopoisk.ru/series/89595/)
 - [x] [Любовь в большом городе](https://www.kinopoisk.ru/film/430602/)
 - [x] [Любовь в большом городе 2](https://www.kinopoisk.ru/film/451127/)
+- [x] [Интерны](https://www.kinopoisk.ru/series/501998/)
 
 ###### ☭ СССР
 
