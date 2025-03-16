@@ -129,6 +129,7 @@
 - [x] [Метро](https://www.kinopoisk.ru/film/521689/)
 - [x] [Грозовые ворота](https://www.kinopoisk.ru/series/252003/)
 - [x] [Кухня](https://www.kinopoisk.ru/series/687595/)
+- [x] [Поцелуй сквозь стену](https://www.kinopoisk.ru/film/468182/)
 - [x] [ДМБ](https://www.kinopoisk.ru/film/41133/)
 - [x] [Кухня в Париже](https://www.kinopoisk.ru/film/795847/)
 - [x] [Турецкий гамбит](https://www.kinopoisk.ru/series/542445/)
