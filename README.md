@@ -155,6 +155,8 @@
 - [x] [Любовь в большом городе](https://www.kinopoisk.ru/film/430602/)
 - [x] [Любовь в большом городе 2](https://www.kinopoisk.ru/film/451127/)
 - [x] [Интерны](https://www.kinopoisk.ru/series/501998/)
+- [x] [Папины дочки](https://www.kinopoisk.ru/series/394047/)
+- [x] [Воронины](https://www.kinopoisk.ru/series/479090/)
 
 ###### ☭ СССР
 
