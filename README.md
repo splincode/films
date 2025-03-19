@@ -49,6 +49,7 @@
 - [x] [Запретное царство](https://www.kinopoisk.ru/film/271999/)
 - [x] [Шанхайский полдень](https://www.kinopoisk.ru/film/829/)
 - [x] [Шанхайские рыцари](https://www.kinopoisk.ru/film/828/)
+- [x] [2046](https://www.kinopoisk.ru/film/13728/)
 
 ###### Анимационные
 
@@ -562,6 +563,7 @@
 - [x] [Агенты А.Н.К.Л.](https://www.kinopoisk.ru/film/518042/)
 - [x] [Рок-н-рольщик](https://www.kinopoisk.ru/film/378140/)
 - [x] [Куб](https://www.kinopoisk.ru/film/20590/)
+- [x] [Шан-Чи и легенда десяти колец](https://www.kinopoisk.ru/film/1219149/)
 - [x] [Послезавтра](https://www.kinopoisk.ru/film/2053/)
 - [x] [Жестокие игры](https://www.kinopoisk.ru/film/12192/)
 - [x] [Доктор Стрэндж](https://www.kinopoisk.ru/film/409600/)
