@@ -396,6 +396,7 @@
 - [x] [Спасти рядового Райана](https://www.kinopoisk.ru/film/371/)
 - [x] [Чего хотят женщины](https://www.kinopoisk.ru/film/880/)
 - [x] [Планета страха](https://www.kinopoisk.ru/film/273063/)
+- [x] [Высший пилотаж](https://www.kinopoisk.ru/film/81528/)
 - [x] [Отряд самоубийц](https://www.kinopoisk.ru/film/468522/)
 - [x] [Другие](https://www.kinopoisk.ru/film/494/)
 - [x] [Неуязвимый](https://www.kinopoisk.ru/film/866/)
