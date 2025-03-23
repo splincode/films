@@ -575,6 +575,7 @@
 - [x] [Большой Стэн](https://www.kinopoisk.ru/film/231150/)
 - [x] [Люси](https://www.kinopoisk.ru/film/760326/)
 - [x] [127 часов](https://www.kinopoisk.ru/film/484878/)
+- [x] [Ночь демонов](https://www.kinopoisk.ru/film/34251/)
 - [x] [99 франков](https://www.kinopoisk.ru/film/262771/)
 - [x] [Хроники Нарнии: Лев, колдунья и волшебный шкаф](https://www.kinopoisk.ru/film/48162/)
 - [x] [Хроники Нарнии: Принц Каспиан](https://www.kinopoisk.ru/film/243596/)
