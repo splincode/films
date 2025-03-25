@@ -379,6 +379,7 @@
 - [x] [Терминал](https://www.kinopoisk.ru/film/6877/)
 - [x] [В погоне за счастьем](https://www.kinopoisk.ru/film/104938/)
 - [x] [Трасса 60](https://www.kinopoisk.ru/film/3563/)
+- [x] [Взрыв из прошлого](https://www.kinopoisk.ru/film/2408/)
 - [x] [Нечто](https://www.kinopoisk.ru/film/8366/)
 - [x] [Реальная любовь](https://www.kinopoisk.ru/film/6144/)
 - [x] [Пролетая над гнездом кукушки](https://www.kinopoisk.ru/film/336/)
