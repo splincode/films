@@ -319,6 +319,7 @@
 - [x] [Затура: Космическое приключение](https://www.kinopoisk.ru/film/81097)
 - [x] [Законопослушный гражданин](https://www.kinopoisk.ru/film/406408/)
 - [x] [Семь](https://www.kinopoisk.ru/film/377/)
+- [x] [Ослепленный желаниями](https://www.kinopoisk.ru/film/12330/)
 - [x] [Люди в чёрном](https://www.kinopoisk.ru/film/1091/)
 - [x] [Люди в чёрном 2](https://www.kinopoisk.ru/film/6379/)
 - [x] [Люди в черном 3](https://www.kinopoisk.ru/film/455773/)
