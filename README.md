@@ -375,6 +375,7 @@
 - [x] [Железный человек 2](https://www.kinopoisk.ru/film/411924/)
 - [x] [Железный человек 3](https://www.kinopoisk.ru/film/462762/)
 - [x] [Красота по-американски](https://www.kinopoisk.ru/film/351/)
+- [x] [Путешествие к центру Земли](https://www.kinopoisk.ru/film/252903/)
 - [x] [Легенда о Зеленом рыцаре](https://www.kinopoisk.ru/film/1209476/)
 - [x] [Иллюзионист](https://www.kinopoisk.ru/film/102198/)
 - [x] [Терминал](https://www.kinopoisk.ru/film/6877/)
