@@ -497,6 +497,7 @@
 - [x] [Мгла](https://www.kinopoisk.ru/film/273302/)
 - [x] [Пункт назначения](https://www.kinopoisk.ru/film/668/)
 - [x] [Голодные игры](https://www.kinopoisk.ru/film/468581/)
+- [x] [Голодные игры: Сойка-пересмешница. Часть II](https://www.kinopoisk.ru/film/663715/)
 - [x] [Пассажиры](https://www.kinopoisk.ru/film/470689/)
 - [x] [Зверополис](https://www.kinopoisk.ru/film/775276/)
 - [x] [Сонная Лощина](https://www.kinopoisk.ru/film/5622/)
