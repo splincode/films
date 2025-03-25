@@ -340,6 +340,7 @@
 - [x] [Пятый элемент](https://www.kinopoisk.ru/film/2656/)
 - [x] [Кабельщик](https://www.kinopoisk.ru/film/6037/)
 - [x] [Троя](https://www.kinopoisk.ru/film/3442/)
+- [x] [Сахара](https://www.kinopoisk.ru/film/23048)
 - [x] [Оппенгеймер](https://www.kinopoisk.ru/film/4664634/)
 - [x] [Король говорит](https://www.kinopoisk.ru/film/485311/)
 - [x] [Разделение](https://www.kinopoisk.ru/series/1343318/)
