@@ -417,6 +417,7 @@
 - [x] [Джиперс Криперс](https://www.kinopoisk.ru/film/7316/)
 - [x] [28 дней спустя](https://www.kinopoisk.ru/film/577/)
 - [x] [Корабль-призрак](https://www.kinopoisk.ru/film/5901)
+- [x] [Бандитки](https://www.kinopoisk.ru/film/81102/)
 - [x] [Авиатор](https://www.kinopoisk.ru/film/6374/)
 - [x] [Зловещие мертвецы](https://www.kinopoisk.ru/film/2894/)
 - [x] [Зловещие мертвецы 2](https://www.kinopoisk.ru/film/2918/)
