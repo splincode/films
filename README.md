@@ -275,6 +275,7 @@
 - [x] [Полицейский из Беверли-Хиллз](https://www.kinopoisk.ru/film/2318/)
 - [x] [Враг у ворот](https://www.kinopoisk.ru/film/659/)
 - [x] [Перл Харбор](https://www.kinopoisk.ru/film/1957/)
+- [x] [Шоу Фрая и Лори](https://www.kinopoisk.ru/series/385859/)
 - [x] [Спасти рядового Райана](https://www.kinopoisk.ru/film/371/)
 - [x] [1917](https://www.kinopoisk.ru/film/1171976/)
 - [x] [Ярость](https://www.kinopoisk.ru/film/740644/)
@@ -403,6 +404,7 @@
 - [x] [Спасти рядового Райана](https://www.kinopoisk.ru/film/371/)
 - [x] [Чего хотят женщины](https://www.kinopoisk.ru/film/880/)
 - [x] [Планета страха](https://www.kinopoisk.ru/film/273063/)
+- [x] [101 далматинец](https://www.kinopoisk.ru/film/2380/)
 - [x] [Высший пилотаж](https://www.kinopoisk.ru/film/81528/)
 - [x] [Отряд самоубийц](https://www.kinopoisk.ru/film/468522/)
 - [x] [Другие](https://www.kinopoisk.ru/film/494/)
@@ -603,6 +605,7 @@
 - [x] [Американский пирог 3: Свадьба](https://www.kinopoisk.ru/film/4300/)
 - [x] [Американский пирог: Музыкальный лагерь](https://www.kinopoisk.ru/film/87387/)
 - [x] [Джули и Джулия: Готовим счастье по рецепту](https://www.kinopoisk.ru/film/402542)
+- [x] [Золотая лихорадка](https://www.kinopoisk.ru/film/478/)
 
 ###### Анимационные
 
@@ -640,3 +643,5 @@
 - [x] [Братец медвежонок](https://www.kinopoisk.ru/film/8057/)
 - [x] [Братец медвежонок 2: Лоси в бегах](https://www.kinopoisk.ru/film/229903/)
 - [x] [Американский папаша](https://www.kinopoisk.ru/series/258054/)
+- [x] [Русалочка](https://www.kinopoisk.ru/film/8147/)
+- [x] [101 далматинец](https://www.kinopoisk.ru/film/8129/)
