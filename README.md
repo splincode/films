@@ -648,3 +648,5 @@
 - [x] [Американский папаша](https://www.kinopoisk.ru/series/258054/)
 - [x] [Русалочка](https://www.kinopoisk.ru/film/8147/)
 - [x] [101 далматинец](https://www.kinopoisk.ru/film/8129/)
+- [x] [Обитель зла: Вырождение](https://www.kinopoisk.ru/film/405450/)
+- [x] [Обитель зла: Проклятие](https://www.kinopoisk.ru/film/576450/)
