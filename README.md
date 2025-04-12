@@ -127,6 +127,7 @@
 - [x] [Брестская крепость](https://www.kinopoisk.ru/film/436263/)
 - [x] [Сталинград](https://www.kinopoisk.ru/film/468196)
 - [x] [Экипаж](https://www.kinopoisk.ru/film/839818/)
+- [x] [Наша Russia](https://www.kinopoisk.ru/series/412173/)
 - [x] [Адмиралъ](https://www.kinopoisk.ru/film/280938/)
 - [x] [Обручальное кольцо](https://www.kinopoisk.ru/series/436269/)
 - [x] [Метро](https://www.kinopoisk.ru/film/521689/)
