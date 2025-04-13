@@ -638,6 +638,7 @@
 - [x] [Инспектор Гаджет](https://www.kinopoisk.ru/series/229620/)
 - [x] [Мадагаскар](https://www.kinopoisk.ru/film/6006/)
 - [x] [ВАЛЛ·И](https://www.kinopoisk.ru/film/279102/)
+- [x] [Правдивая история Красной Шапки](https://www.kinopoisk.ru/film/88737)
 - [x] [Тачки](https://www.kinopoisk.ru/film/61249/)
 - [x] [Головоломка](https://www.kinopoisk.ru/film/645118/)
 - [x] [Рапунцель: Запутанная история](https://www.kinopoisk.ru/film/84049/)
