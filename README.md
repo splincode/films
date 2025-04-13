@@ -50,6 +50,7 @@
 - [x] [Шанхайский полдень](https://www.kinopoisk.ru/film/829/)
 - [x] [Шанхайские рыцари](https://www.kinopoisk.ru/film/828/)
 - [x] [2046](https://www.kinopoisk.ru/film/13728/)
+- [x] [Чунгкингский экспресс](https://www.kinopoisk.ru/film/22819)
 
 ###### Анимационные
 
