@@ -443,6 +443,7 @@
 - [x] [Зловещие мертвецы: Черная книга](https://www.kinopoisk.ru/film/428707/)
 - [x] [Реаниматор](https://www.kinopoisk.ru/film/55945/)
 - [x] [Рассвет мертвецов](https://www.kinopoisk.ru/film/36544/)
+- [x] [Освободите Вилли](https://www.kinopoisk.ru/film/14833/)
 - [x] [Война миров Z](https://www.kinopoisk.ru/film/261636/)
 - [x] [Ходячие мертвецы](https://www.kinopoisk.ru/series/508161/)
 - [x] [Бойтесь ходячих мертвецов](https://www.kinopoisk.ru/series/846892)
