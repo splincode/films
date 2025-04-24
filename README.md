@@ -22,6 +22,7 @@
 - [x] [Завтра](https://www.kinopoisk.ru/series/4493018/)
 - [x] [Демон](https://www.kinopoisk.ru/series/996611/)
 - [x] [Наш блюз](https://www.kinopoisk.ru/series/1311068/)
+- [x] [Когда жизнь даёт тебе мандарины](https://www.kinopoisk.ru/series/5249436/)
 
 ### 🇯🇵 Япония
 
