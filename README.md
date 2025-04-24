@@ -145,6 +145,7 @@
 - [x] [Бармен](https://www.kinopoisk.ru/film/777032/)
 - [x] [Грозовые ворота](https://www.kinopoisk.ru/series/252003/)
 - [x] [72 метра](https://www.kinopoisk.ru/film/70952/)
+- [x] [Семь пар нечистых](https://www.kinopoisk.ru/film/984366/)
 - [x] [Штрафбат](https://www.kinopoisk.ru/series/84342/)
 - [x] [Гитлер капут!](https://www.kinopoisk.ru/film/396473/)
 - [x] [Чёрная Молния](https://www.kinopoisk.ru/film/439906/)
