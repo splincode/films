@@ -339,6 +339,7 @@
 - [x] [Звездная пыль](https://www.kinopoisk.ru/film/197863/)
 - [x] [Один дома](https://www.kinopoisk.ru/film/8124/)
 - [x] [Чёрная дыра](https://www.kinopoisk.ru/film/785/)
+- [x] [Ох уж эта наука!](https://www.kinopoisk.ru/film/2239)
 - [x] [Хроники Риддика](https://www.kinopoisk.ru/film/5900/)
 - [x] [Риддик](https://www.kinopoisk.ru/film/455767/)
 - [x] [Области тьмы](https://www.kinopoisk.ru/film/462606/)
