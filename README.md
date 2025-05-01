@@ -489,6 +489,7 @@
 - [x] [Десятое королевство](https://www.kinopoisk.ru/series/77217/)
 - [x] [Дорогая, я уменьшил детей](https://www.kinopoisk.ru/film/8139/)
 - [x] [Охотники за привидениями](https://www.kinopoisk.ru/film/2467/)
+- [x] [Большой переполох в маленьком Китае](https://www.kinopoisk.ru/film/16116/)
 - [x] [Космические яйца](https://www.kinopoisk.ru/film/8954/)
 - [x] [Сплит](https://www.kinopoisk.ru/film/930534/)
 - [x] [Джон Уик](https://www.kinopoisk.ru/film/762738/)
