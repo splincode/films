@@ -29,6 +29,7 @@
 
 - [x] [Годзилла: Минус один](https://www.kinopoisk.ru/film/5354707/)
 - [x] [Королевская битва](https://www.kinopoisk.ru/film/604/)
+- [x] [47 ронинов](https://www.kinopoisk.ru/film/461314)
 
 ###### Анимационные
 
