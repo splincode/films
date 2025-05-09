@@ -642,6 +642,7 @@
 - [x] [Гадкий я](https://www.kinopoisk.ru/film/432724/)
 - [x] [Люди Икс ’97](https://www.kinopoisk.ru/series/4711940/)
 - [x] [Рататуй](https://www.kinopoisk.ru/film/89514/)
+- [x] [Бионикл: Маска света](https://www.kinopoisk.ru/film/79755/)
 - [x] [Гравити Фолз](https://www.kinopoisk.ru/series/591929/)
 - [x] [Рик и Морти](https://www.kinopoisk.ru/series/685246/)
 - [x] [Инспектор Гаджет](https://www.kinopoisk.ru/series/229620/)
