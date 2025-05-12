@@ -647,6 +647,7 @@
 - [x] [Рик и Морти](https://www.kinopoisk.ru/series/685246/)
 - [x] [Инспектор Гаджет](https://www.kinopoisk.ru/series/229620/)
 - [x] [Мадагаскар](https://www.kinopoisk.ru/film/6006/)
+- [x] [13-й воин](https://www.kinopoisk.ru/film/10273/)
 - [x] [ВАЛЛ·И](https://www.kinopoisk.ru/film/279102/)
 - [x] [Правдивая история Красной Шапки](https://www.kinopoisk.ru/film/88737)
 - [x] [Тачки](https://www.kinopoisk.ru/film/61249/)
