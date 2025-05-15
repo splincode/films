@@ -203,6 +203,7 @@
 
 - [x] [Ну, погоди!](https://www.kinopoisk.ru/series/46483/)
 - [x] [Тайна третьей планеты](https://www.kinopoisk.ru/film/42172)
+- [x] [Жил-был пёс](https://www.kinopoisk.ru/film/45319/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
