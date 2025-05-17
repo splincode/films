@@ -205,6 +205,7 @@
 - [x] [Тайна третьей планеты](https://www.kinopoisk.ru/film/42172)
 - [x] [Жил-был пёс](https://www.kinopoisk.ru/film/45319/)
 - [x] [Трое из Простоквашино](https://www.kinopoisk.ru/film/42326/)
+- [x] [Винни Пух](https://www.kinopoisk.ru/film/45779/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
