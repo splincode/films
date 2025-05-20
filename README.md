@@ -206,6 +206,7 @@
 - [x] [Жил-был пёс](https://www.kinopoisk.ru/film/45319/)
 - [x] [Трое из Простоквашино](https://www.kinopoisk.ru/film/42326/)
 - [x] [Винни Пух](https://www.kinopoisk.ru/film/45779/)
+- [x] [Бременские музыканты](https://www.kinopoisk.ru/film/46223/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
