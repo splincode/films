@@ -207,6 +207,7 @@
 - [x] [Трое из Простоквашино](https://www.kinopoisk.ru/film/42326/)
 - [x] [Винни Пух](https://www.kinopoisk.ru/film/45779/)
 - [x] [Бременские музыканты](https://www.kinopoisk.ru/film/46223/)
+- [x] [Каникулы в Простоквашино](https://www.kinopoisk.ru/film/256551/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
