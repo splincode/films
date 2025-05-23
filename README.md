@@ -566,7 +566,6 @@
 - [x] [Кейт и Лео](https://www.kinopoisk.ru/film/724/)
 - [x] [Мистер и миссис Смит](https://www.kinopoisk.ru/film/12090/)
 - [x] [Типа крутые легавые](https://www.kinopoisk.ru/film/93377/)
-- [x] [Финес и Ферб](https://www.kinopoisk.ru/series/449993/)
 - [x] [Мобильник](https://www.kinopoisk.ru/film/738387/)
 - [x] [Фантастическая четверка](https://www.kinopoisk.ru/film/23263/)
 - [x] [Гарфилд](https://www.kinopoisk.ru/film/8932/)
@@ -637,6 +636,7 @@
 - [x] [Американский пирог: Музыкальный лагерь](https://www.kinopoisk.ru/film/87387/)
 - [x] [Джули и Джулия: Готовим счастье по рецепту](https://www.kinopoisk.ru/film/402542)
 - [x] [Золотая лихорадка](https://www.kinopoisk.ru/film/478/)
+- [x] [Лило и Стич](https://www.kinopoisk.ru/film/1348367)
 
 ###### Анимационные
 
