@@ -208,6 +208,7 @@
 - [x] [Винни Пух](https://www.kinopoisk.ru/film/45779/)
 - [x] [Бременские музыканты](https://www.kinopoisk.ru/film/46223/)
 - [x] [Каникулы в Простоквашино](https://www.kinopoisk.ru/film/256551/)
+- [x] [Тайна третьей планеты](https://www.kinopoisk.ru/film/42172/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
