@@ -214,6 +214,7 @@
 - [x] [Каникулы в Простоквашино](https://www.kinopoisk.ru/film/256551/)
 - [x] [Тайна третьей планеты](https://www.kinopoisk.ru/film/42172/)
 - [x] [Зима в Простоквашино](https://www.kinopoisk.ru/film/256566/)
+- [x] [Бобик в гостях у Барбоса](https://www.kinopoisk.ru/film/391177/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
