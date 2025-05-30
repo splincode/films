@@ -340,6 +340,7 @@
 - [x] [Карты, деньги, два ствола](https://www.kinopoisk.ru/film/522/)
 - [x] [Джанго освобожденный](https://www.kinopoisk.ru/film/586397/)
 - [x] [Пираты Карибского моря](https://www.kinopoisk.ru/film/4374/)
+- [x] [Слепая ярость](https://www.kinopoisk.ru/film/17467/)
 - [x] [Мертвые не умирают](https://www.kinopoisk.ru/film/1171953/)
 - [x] [Бесславные ублюдки](https://www.kinopoisk.ru/film/9691/)
 - [x] [Затура: Космическое приключение](https://www.kinopoisk.ru/film/81097)
