@@ -24,6 +24,9 @@
 - [x] [Демон](https://www.kinopoisk.ru/series/996611/)
 - [x] [Наш блюз](https://www.kinopoisk.ru/series/1311068/)
 - [x] [Когда жизнь даёт тебе мандарины](https://www.kinopoisk.ru/series/5249436/)
+- [x] [Побег](https://www.kinopoisk.ru/film/4796029/)
+- [x] [Давай поженимся](https://www.kinopoisk.ru/film/6303993/)
+- [x] [Пожарные](https://www.kinopoisk.ru/film/1382022/)
 
 ### 🇯🇵 Япония
 
@@ -317,6 +320,7 @@
 - [x] [Остаться в живых](https://www.kinopoisk.ru/series/104122/)
 - [x] [Бойцовский клуб](https://www.kinopoisk.ru/film/361/)
 - [x] [Остров проклятых](https://www.kinopoisk.ru/film/397667/)
+- [x] [Аполлон-11](https://www.kinopoisk.ru/film/1235047/)
 - [x] [Форрест Гамп](https://www.kinopoisk.ru/film/448/)
 - [x] [Властелин колец](https://www.kinopoisk.ru/film/3498/)
 - [x] [Начало](https://www.kinopoisk.ru/film/447301/)
