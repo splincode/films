@@ -219,6 +219,7 @@
 - [x] [Зима в Простоквашино](https://www.kinopoisk.ru/film/256566/)
 - [x] [Бобик в гостях у Барбоса](https://www.kinopoisk.ru/film/391177/)
 - [x] [Малыш и Карлсон](https://www.kinopoisk.ru/film/251884/)
+- [x] [Винни Пух идет в гости](https://www.kinopoisk.ru/film/45781/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
