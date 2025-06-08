@@ -221,6 +221,7 @@
 - [x] [Малыш и Карлсон](https://www.kinopoisk.ru/film/251884/)
 - [x] [Винни Пух идет в гости](https://www.kinopoisk.ru/film/45781/)
 - [x] [Летучий корабль](https://www.kinopoisk.ru/film/45086/)
+- [x] [Чебурашка](https://www.kinopoisk.ru/film/45446/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
