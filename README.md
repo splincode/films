@@ -222,6 +222,7 @@
 - [x] [Винни Пух идет в гости](https://www.kinopoisk.ru/film/45781/)
 - [x] [Летучий корабль](https://www.kinopoisk.ru/film/45086/)
 - [x] [Чебурашка](https://www.kinopoisk.ru/film/45446/)
+- [x] [Остров сокровищ](https://www.kinopoisk.ru/film/573759/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
