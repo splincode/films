@@ -225,6 +225,7 @@
 - [x] [Остров сокровищ](https://www.kinopoisk.ru/film/573759/)
 - [x] [Котенок по имени Гав](https://www.kinopoisk.ru/series/392206/)
 - [x] [Винни Пух и день забот](https://www.kinopoisk.ru/film/45780/)
+- [x] [Карлсон вернулся](https://www.kinopoisk.ru/film/44718/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿Новая Зеландия
 
