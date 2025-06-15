@@ -27,6 +27,7 @@
 - [x] [Побег](https://www.kinopoisk.ru/film/4796029/)
 - [x] [Давай поженимся](https://www.kinopoisk.ru/film/6303993/)
 - [x] [Пожарные](https://www.kinopoisk.ru/film/1382022/)
+- [x] [Мистер Солнечный Свет](https://www.kinopoisk.ru/series/1045501)
 
 ### 🇯🇵 Япония
 
