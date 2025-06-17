@@ -200,11 +200,9 @@
 - [x] [Война и мир: 1812 год](https://www.kinopoisk.ru/film/45819/)
 - [x] [Война и мир: Пьер Безухов](https://www.kinopoisk.ru/film/45820/)
 - [x] [Кавказская пленница, или Новые приключения Шурика](https://www.kinopoisk.ru/film/44745/)
-- [x] [Иван Васильевич меняет профессию](https://www.kinopoisk.ru/film/42664/)
 - [x] [Девчата](https://www.kinopoisk.ru/film/44168/)
 - [x] [Королева бензоколонки](https://www.kinopoisk.ru/film/44927/)
 - [x] [Крепкий орешек](https://www.kinopoisk.ru/film/44974/)
-- [x] [Иван Васильевич меняет профессию](https://www.kinopoisk.ru/film/42664/)
 - [x] [Операция «Ы» и другие приключения Шурика](https://www.kinopoisk.ru/film/42782/)
 
 ###### Анимационные
