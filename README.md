@@ -204,6 +204,7 @@
 - [x] [Королева бензоколонки](https://www.kinopoisk.ru/film/44927/)
 - [x] [Крепкий орешек](https://www.kinopoisk.ru/film/44974/)
 - [x] [Операция «Ы» и другие приключения Шурика](https://www.kinopoisk.ru/film/42782/)
+- [x] [Служебный роман](https://www.kinopoisk.ru/film/43869/)
 
 ###### Анимационные
 
