@@ -206,6 +206,7 @@
 - [x] [Операция «Ы» и другие приключения Шурика](https://www.kinopoisk.ru/film/42782/)
 - [x] [Служебный роман](https://www.kinopoisk.ru/film/43869/)
 - [x] [12 стульев](https://www.kinopoisk.ru/series/77270/)
+- [x] [Бриллиантовая рука](https://www.kinopoisk.ru/film/46225/)
 
 ###### Анимационные
 
