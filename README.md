@@ -676,6 +676,7 @@
 - [x] [Монстры на каникулах](https://www.kinopoisk.ru/film/280174/)
 - [x] [Шрэк](https://www.kinopoisk.ru/film/430)
 - [x] [Подводная братва](https://www.kinopoisk.ru/film/7464/)
+- [x] [Лесная братва](https://www.kinopoisk.ru/film/6036)
 - [x] [Ральф против интернета](https://www.kinopoisk.ru/film/988782/)
 - [x] [Дом-монстр](https://www.kinopoisk.ru/film/77601/)
 - [x] [Лило и Стич](https://www.kinopoisk.ru/film/740/)
