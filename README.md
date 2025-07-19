@@ -610,6 +610,7 @@
 - [x] [Сокровище нации: Книга Тайн](https://www.kinopoisk.ru/film/195408/)
 - [x] [Брюс Всемогущий](https://www.kinopoisk.ru/film/39577/)
 - [x] [Эван Всемогущий](https://www.kinopoisk.ru/film/103791/)
+- [x] [Армия мертвецов](https://www.kinopoisk.ru/film/428683/)
 - [x] [Эта дурацкая любовь](https://www.kinopoisk.ru/film/493992/)
 - [x] [Маска](https://www.kinopoisk.ru/film/6039/)
 - [x] [Зомби по имени Шон](https://www.kinopoisk.ru/film/64021/)
