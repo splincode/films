@@ -178,6 +178,7 @@
 - [x] [Папины дочки](https://www.kinopoisk.ru/series/394047/)
 - [x] [Воронины](https://www.kinopoisk.ru/series/479090/)
 - [x] [Питер FM](https://www.kinopoisk.ru/film/252063)
+- [x] [Прогулка](https://www.kinopoisk.ru/film/40966/)
 
 ###### Анимационные
 
