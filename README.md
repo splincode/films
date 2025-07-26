@@ -105,6 +105,7 @@
 ### 🇮🇳 Индия
 
 - [x] [Миллионер из трущоб](https://www.kinopoisk.ru/film/413362/)
+- [x] [Танцор диско](https://www.kinopoisk.ru/film/41740)
 
 ### 🇸🇪 Швеция
 
