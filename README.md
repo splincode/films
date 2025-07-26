@@ -670,6 +670,8 @@
 - [x] [Джули и Джулия: Готовим счастье по рецепту](https://www.kinopoisk.ru/film/402542)
 - [x] [Золотая лихорадка](https://www.kinopoisk.ru/film/478/)
 - [x] [Лило и Стич](https://www.kinopoisk.ru/film/1348367)
+- [x] [Гремлины](https://www.kinopoisk.ru/film/7114)
+- [x] [Гремлины 2: Новенькая партия](https://www.kinopoisk.ru/film/5633/)
 
 ###### Анимационные
 
