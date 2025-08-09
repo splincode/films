@@ -638,6 +638,7 @@
 - [x] [Агенты А.Н.К.Л.](https://www.kinopoisk.ru/film/518042/)
 - [x] [Рок-н-рольщик](https://www.kinopoisk.ru/film/378140/)
 - [x] [Куб](https://www.kinopoisk.ru/film/20590/)
+- [x] [Куб 2: Гиперкуб](https://www.kinopoisk.ru/film/8121/)
 - [x] [Шан-Чи и легенда десяти колец](https://www.kinopoisk.ru/film/1219149/)
 - [x] [Послезавтра](https://www.kinopoisk.ru/film/2053/)
 - [x] [Жестокие игры](https://www.kinopoisk.ru/film/12192/)
