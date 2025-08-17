@@ -85,6 +85,7 @@
 
 - [x] [Жизнь прекрасна](https://www.kinopoisk.ru/film/381/)
 - [x] [Малена](https://www.kinopoisk.ru/film/747/)
+- [x] [Укрощение строптивого](https://www.kinopoisk.ru/film/63912/)
 
 ### 🇪🇸 Испания
 
@@ -352,6 +353,7 @@
 - [x] [Волк с Уолл-стрит](https://www.kinopoisk.ru/film/462682/)
 - [x] [Большой куш](https://www.kinopoisk.ru/film/526/)
 - [x] [Назад в будущее](https://www.kinopoisk.ru/film/476/)
+- [x] [Назад в будущее 2](https://www.kinopoisk.ru/film/5502/)
 - [x] [Поймай меня, если сможешь](https://www.kinopoisk.ru/film/324/)
 - [x] [Титаник](https://www.kinopoisk.ru/film/2213/)
 - [x] [Гарри Поттер](https://www.kinopoisk.ru/film/689/)
