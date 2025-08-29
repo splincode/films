@@ -719,6 +719,7 @@
 - [x] [Корпорация монстров](https://www.kinopoisk.ru/film/458/)
 - [x] [Университет монстров](https://www.kinopoisk.ru/film/468904/)
 - [x] [Финес и Ферб](https://www.kinopoisk.ru/series/449993/)
+- [x] [Титан: После гибели Земли](https://www.kinopoisk.ru/film/862/)
 - [x] [Котопес](https://www.kinopoisk.ru/series/281893/)
 - [x] [Спирит: Душа прерий](https://www.kinopoisk.ru/film/839/)
 - [x] [Братец медвежонок](https://www.kinopoisk.ru/film/8057/)
