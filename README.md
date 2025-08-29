@@ -694,6 +694,7 @@
 - [x] [Лесная братва](https://www.kinopoisk.ru/film/6036)
 - [x] [Хи-Мэн и Властелины Вселенной](https://www.kinopoisk.ru/series/229750)
 - [x] [Ральф против интернета](https://www.kinopoisk.ru/film/988782/)
+- [x] [Последняя фантазия](https://www.kinopoisk.ru/film/670/)
 - [x] [Дом-монстр](https://www.kinopoisk.ru/film/77601/)
 - [x] [Лило и Стич](https://www.kinopoisk.ru/film/740/)
 - [x] [Холодное сердце](https://www.kinopoisk.ru/film/493208/)
