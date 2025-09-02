@@ -214,6 +214,7 @@
 - [x] [Служебный роман](https://www.kinopoisk.ru/film/43869/)
 - [x] [12 стульев](https://www.kinopoisk.ru/series/77270/)
 - [x] [Бриллиантовая рука](https://www.kinopoisk.ru/film/46225/)
+- [x] [Д`Артаньян и три мушкетера](https://www.kinopoisk.ru/series/44076)
 
 ###### Анимационные
 
