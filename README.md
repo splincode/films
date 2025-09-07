@@ -561,6 +561,7 @@
 - [x] [Социальная сеть](https://www.kinopoisk.ru/film/427198/)
 - [x] [Планета обезьян: Новое царство](https://www.kinopoisk.ru/film/1338024/)
 - [x] [Мальчишник в Вегасе](https://www.kinopoisk.ru/film/426004/)
+- [x] [Мальчишник 2: Из Вегаса в Бангкок](https://www.kinopoisk.ru/film/455338/)
 - [x] [Один дома](https://www.kinopoisk.ru/film/8124/)
 - [x] [Прибытие](https://www.kinopoisk.ru/film/718811/)
 - [x] [Бесконечная история](https://www.kinopoisk.ru/film/12205/)
