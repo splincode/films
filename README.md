@@ -522,6 +522,7 @@
 - [x] [Хоббит: Битва пяти воинств](https://www.kinopoisk.ru/film/694633/)
 - [x] [Робин Гуд](https://www.kinopoisk.ru/film/278177/)
 - [x] [Шерлок Холмс](https://www.kinopoisk.ru/film/420923/)
+- [x] [Шерлок Холмс: Игра теней](https://www.kinopoisk.ru/film/474953/)
 - [x] [Чёрное лето](https://www.kinopoisk.ru/series/1186526/)
 - [x] [Молодой Папа](https://www.kinopoisk.ru/series/893361/)
 - [x] [Телепорт](https://www.kinopoisk.ru/film/220589)
