@@ -745,3 +745,7 @@
 - [x] [Бен 10](https://www.kinopoisk.ru/series/325721/)
 - [x] [Бен 10: Секрет Омнитрикса](https://www.kinopoisk.ru/film/400164/)
 - [x] [Бен 10: Омниверс](https://www.kinopoisk.ru/series/694479/)
+
+# Лучшие мемы на мой взгляд
+
+- [x] [Everyone needs a friend like him to help ace your interview](https://www.instagram.com/p/DOWR1MPDaE4/)
