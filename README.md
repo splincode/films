@@ -258,6 +258,8 @@
 - [x] [Мандалорец](https://www.kinopoisk.ru/series/1118138/)
 - [x] [Оби-Ван Кеноби](https://www.kinopoisk.ru/series/1160046/)
 - [x] [Тихое место](https://www.kinopoisk.ru/film/1044906/)
+- [x] [Тихое место 2](https://www.kinopoisk.ru/film/1129900/)
+- [x] [Вирус](https://www.kinopoisk.ru/film/6219/)
 - [x] [Одиннадцать друзей Оушена](https://www.kinopoisk.ru/film/770/)
 - [x] [Дьявол носит Prada](https://www.kinopoisk.ru/film/104992/)
 - [x] [Хороший, плохой, злой](https://www.kinopoisk.ru/film/349/)
