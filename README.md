@@ -484,6 +484,7 @@
 - [x] [Я – зомби](https://www.kinopoisk.ru/series/824275/)
 - [x] [127 часов](https://www.kinopoisk.ru/film/484878/)
 - [x] [Револьвер](https://www.kinopoisk.ru/film/18973/)
+- [x] [Телохранитель](https://www.kinopoisk.ru/series/1176115/)
 - [x] [Последний отпуск](https://www.kinopoisk.ru/film/81746/)
 - [x] [Безумцы](https://www.kinopoisk.ru/film/195870/)
 - [x] [Обитель проклятых](https://www.kinopoisk.ru/film/572035/)
