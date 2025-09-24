@@ -228,7 +228,6 @@
 - [x] [Винни Пух](https://www.kinopoisk.ru/film/45779/)
 - [x] [Бременские музыканты](https://www.kinopoisk.ru/film/46223/)
 - [x] [Каникулы в Простоквашино](https://www.kinopoisk.ru/film/256551/)
-- [x] [Тайна третьей планеты](https://www.kinopoisk.ru/film/42172/)
 - [x] [Зима в Простоквашино](https://www.kinopoisk.ru/film/256566/)
 - [x] [Бобик в гостях у Барбоса](https://www.kinopoisk.ru/film/391177/)
 - [x] [Малыш и Карлсон](https://www.kinopoisk.ru/film/251884/)
