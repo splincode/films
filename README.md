@@ -717,6 +717,7 @@
 - [x] [Холодное сердце](https://www.kinopoisk.ru/film/493208/)
 - [x] [Кунг-фу Панда](https://www.kinopoisk.ru/film/103734/)
 - [x] [Гадкий я](https://www.kinopoisk.ru/film/432724/)
+- [x] [Земля до начала времен](https://www.kinopoisk.ru/film/7107/)
 - [x] [Люди Икс ’97](https://www.kinopoisk.ru/series/4711940/)
 - [x] [Рататуй](https://www.kinopoisk.ru/film/89514/)
 - [x] [Бионикл: Маска света](https://www.kinopoisk.ru/film/79755/)
