@@ -88,6 +88,10 @@
 - [x] [Жизнь прекрасна](https://www.kinopoisk.ru/film/381/)
 - [x] [Малена](https://www.kinopoisk.ru/film/747/)
 - [x] [Укрощение строптивого](https://www.kinopoisk.ru/film/63912/)
+- [x] [Блеф](https://www.kinopoisk.ru/film/10179/)
+- [x] [Безумно влюблённый](https://www.kinopoisk.ru/film/147969/)
+- [x] [Молодой Папа](https://www.kinopoisk.ru/series/893361/)
+- [x] [Легенда о пианисте](https://www.kinopoisk.ru/film/8335/)
 
 ### 🇪🇸 Испания
 
