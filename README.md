@@ -66,6 +66,7 @@
 - [x] [2046](https://www.kinopoisk.ru/film/13728/)
 - [x] [Чунгкингский экспресс](https://www.kinopoisk.ru/film/22819)
 - [x] [Последний император](https://www.kinopoisk.ru/film/7663/)
+- [x] [Список Ланъя](https://www.kinopoisk.ru/series/1008652/)
 
 ###### Анимационные
 
