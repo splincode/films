@@ -221,6 +221,7 @@
 - [x] [Война и мир: Пьер Безухов](https://www.kinopoisk.ru/film/45820/)
 - [x] [Кавказская пленница, или Новые приключения Шурика](https://www.kinopoisk.ru/film/44745/)
 - [x] [Девчата](https://www.kinopoisk.ru/film/44168/)
+- [x] [Неуловимые мстители](https://www.kinopoisk.ru/film/46420/)
 - [x] [Королева бензоколонки](https://www.kinopoisk.ru/film/44927/)
 - [x] [Крепкий орешек](https://www.kinopoisk.ru/film/44974/)
 - [x] [Операция «Ы» и другие приключения Шурика](https://www.kinopoisk.ru/film/42782/)
@@ -228,6 +229,7 @@
 - [x] [12 стульев](https://www.kinopoisk.ru/series/77270/)
 - [x] [Бриллиантовая рука](https://www.kinopoisk.ru/film/46225/)
 - [x] [Д`Артаньян и три мушкетера](https://www.kinopoisk.ru/series/44076)
+- [x] [Добро пожаловать, или Посторонним вход воспрещен](https://www.kinopoisk.ru/film/44238)
 
 ###### Анимационные
 
