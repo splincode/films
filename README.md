@@ -741,6 +741,7 @@
 - [x] [ВАЛЛ·И](https://www.kinopoisk.ru/film/279102/)
 - [x] [Правдивая история Красной Шапки](https://www.kinopoisk.ru/film/88737)
 - [x] [Тачки](https://www.kinopoisk.ru/film/61249/)
+- [x] [Кот в сапогах](https://www.kinopoisk.ru/film/102146/)
 - [x] [Головоломка](https://www.kinopoisk.ru/film/645118/)
 - [x] [Рапунцель: Запутанная история](https://www.kinopoisk.ru/film/84049/)
 - [x] [Труп невесты](https://www.kinopoisk.ru/film/77548/)
