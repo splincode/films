@@ -254,6 +254,7 @@
 - [x] [Приключения кота Леопольда](https://www.kinopoisk.ru/series/325788/)
 - [x] [Умка](https://www.kinopoisk.ru/film/438262)
 - [x] [Кот в сапогах](https://www.kinopoisk.ru/film/260072)
+- [x] [Чиполлино](https://www.kinopoisk.ru/film/260347/)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿 Новая Зеландия
 
