@@ -154,6 +154,7 @@
 - [x] [В августе 44-го](https://www.kinopoisk.ru/film/41381/)
 - [x] [Брестская крепость](https://www.kinopoisk.ru/film/436263/)
 - [x] [Сталинград](https://www.kinopoisk.ru/film/468196)
+- [x] [Солнечный удар](https://www.kinopoisk.ru/film/586308/)
 - [x] [Экипаж](https://www.kinopoisk.ru/film/839818/)
 - [x] [Он — дракон](https://www.kinopoisk.ru/film/840258/)
 - [x] [Наша Russia](https://www.kinopoisk.ru/series/412173/)
