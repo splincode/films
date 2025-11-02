@@ -154,6 +154,7 @@
 - [x] [Нелюбовь](https://www.kinopoisk.ru/film/963346/)
 - [x] [Айта](https://www.kinopoisk.ru/film/5104425/)
 - [x] [В августе 44-го](https://www.kinopoisk.ru/film/41381/)
+- [x] [Обитаемый остров](https://www.kinopoisk.ru/film/257774/)
 - [x] [Брестская крепость](https://www.kinopoisk.ru/film/436263/)
 - [x] [Сталинград](https://www.kinopoisk.ru/film/468196)
 - [x] [Солнечный удар](https://www.kinopoisk.ru/film/586308/)
@@ -191,6 +192,7 @@
 - [x] [СашаТаня](https://www.kinopoisk.ru/series/630232/)
 - [x] [Хочу в тюрьму](https://www.kinopoisk.ru/film/41236)
 - [x] [Участок](https://www.kinopoisk.ru/series/89595/)
+- [x] [Убойная сила](https://www.kinopoisk.ru/series/79923/)
 - [x] [Любовь в большом городе](https://www.kinopoisk.ru/film/430602/)
 - [x] [Любовь в большом городе 2](https://www.kinopoisk.ru/film/451127/)
 - [x] [Интерны](https://www.kinopoisk.ru/series/501998/)
@@ -199,6 +201,8 @@
 - [x] [Питер FM](https://www.kinopoisk.ru/film/252063)
 - [x] [Прогулка](https://www.kinopoisk.ru/film/40966/)
 - [x] [Президент и его внучка](https://www.kinopoisk.ru/film/40953)
+- [x] [Параграф 78: Фильм второй](https://www.kinopoisk.ru/film/276314/)
+- [x] [Параграф 78: Фильм первый](https://www.kinopoisk.ru/film/104984/)
 
 ###### Анимационные
 
