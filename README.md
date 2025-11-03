@@ -544,6 +544,7 @@
 - [x] [Власть огня](https://www.kinopoisk.ru/film/5207)
 - [x] [Мэверик](https://www.kinopoisk.ru/film/4378/)
 - [x] [Шестое чувство](https://www.kinopoisk.ru/film/395/)
+- [x] [Призрачный гонщик](https://www.kinopoisk.ru/film/3948/)
 - [x] [Черный ястреб](https://www.kinopoisk.ru/film/612/)
 - [x] [Инопланетное вторжение: Битва за Лос-Анджелес](https://www.kinopoisk.ru/film/427542/)
 - [x] [Фарго](https://www.kinopoisk.ru/series/767379/)
