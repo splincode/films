@@ -213,6 +213,7 @@
 
 - [x] [Любовь и голуби](https://www.kinopoisk.ru/film/45146/)
 - [x] [В бой идут одни «старики»](https://www.kinopoisk.ru/film/25108/)
+- [x] [Падение Берлина](https://www.kinopoisk.ru/film/42867)
 - [x] [Контрудар](https://www.kinopoisk.ru/film/44906/)
 - [x] [Сашка](https://www.kinopoisk.ru/film/43624/)
 - [x] [Солдат Иван Бровкин](https://www.kinopoisk.ru/film/43899/)
