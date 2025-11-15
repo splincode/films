@@ -787,4 +787,5 @@
 - [x] [Бен 10: Секрет Омнитрикса](https://www.kinopoisk.ru/film/400164/)
 - [x] [Бен 10: Омниверс](https://www.kinopoisk.ru/series/694479/)
 - [x] [Робин Гуд](https://www.kinopoisk.ru/film/17579/)
+- [x] [Черепашки-ниндзя](https://www.kinopoisk.ru/series/584136/)
 
