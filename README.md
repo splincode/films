@@ -268,6 +268,7 @@
 - [x] [Кот в сапогах](https://www.kinopoisk.ru/film/260072)
 - [x] [Чиполлино](https://www.kinopoisk.ru/film/260347/)
 - [x] [Следствие ведут Колобки](https://www.kinopoisk.ru/film/417755)
+- [x] [Дюймовочка](https://www.kinopoisk.ru/film/44380)
 
 ### 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿 Новая Зеландия
 
