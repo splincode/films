@@ -1,6 +1,6 @@
 # Просмотренные фильмы, сериалы, мульфильмы
 
-##  🇰🇷 Южная корея
+###  🇰🇷 Южная корея
 
 - [x] [Королева Чорин](https://www.kinopoisk.ru/series/1387213/)
 - [x] [Необстрелянные](https://www.kinopoisk.ru/film/494417/)
@@ -38,7 +38,7 @@
 - [x] [Фантом](https://www.kinopoisk.ru/film/1390641/)
 - [x] [Я слежу за тобой](https://www.kinopoisk.ru/film/1405964/)
 
-## 🇯🇵 Япония
+### 🇯🇵 Япония
 
 - [x] [Годзилла: Минус один](https://www.kinopoisk.ru/film/5354707/)
 - [x] [Королевская битва](https://www.kinopoisk.ru/film/604/)
@@ -56,7 +56,7 @@
 - [x] [Манускрипт ниндзя](https://www.kinopoisk.ru/film/8233/)
 - [x] [Босоногий Гэн](https://www.kinopoisk.ru/film/252330/)
 
-## 🇨🇳 Китай / 🇭🇰 Гонконг
+### 🇨🇳 Китай • 🇭🇰 Гонконг
 
 - [x] [Великая стена](https://www.kinopoisk.ru/film/611822/)
 - [x] [Ассасин: Битва миров](https://www.kinopoisk.ru/film/1236082/)
@@ -75,7 +75,7 @@
 
 - [x] [Приключения Джеки Чана](https://www.kinopoisk.ru/series/181548/)
 
-## 🇫🇷 Франция
+### 🇫🇷 Франция
 
 - [x] [1+1](https://www.kinopoisk.ru/film/535341/)
 - [x] [Влюбись в меня, если осмелишься](https://www.kinopoisk.ru/film/63920/)
@@ -91,7 +91,7 @@
 - [x] [Необратимость](https://www.kinopoisk.ru/film/715/)
 - [x] [Горькая луна](https://www.kinopoisk.ru/film/6155/)
 
-## 🇮🇹 Италия
+### 🇮🇹 Италия
 
 - [x] [Жизнь прекрасна](https://www.kinopoisk.ru/film/381/)
 - [x] [Малена](https://www.kinopoisk.ru/film/747/)
@@ -101,32 +101,32 @@
 - [x] [Молодой Папа](https://www.kinopoisk.ru/series/893361/)
 - [x] [Легенда о пианисте](https://www.kinopoisk.ru/film/8335/)
 
-## 🇪🇸 Испания
+### 🇪🇸 Испания
 
 - [x] [Дневники нимфоманки](https://www.kinopoisk.ru/film/428816/)
 
-## 🇮🇩 Индонезия
+### 🇮🇩 Индонезия
 
 - [x] [Астрал. Ночной кошмар](https://www.kinopoisk.ru/film/5459704/)
 
-## 🇧🇷 Бразилия
+### 🇧🇷 Бразилия
 
 - [x] [Клон](https://www.kinopoisk.ru/series/161151/)
 
-## 🇦🇷 Аргентина
+### 🇦🇷 Аргентина
 
 - [x] [Дикий ангел](https://www.kinopoisk.ru/series/77191/)
 
-## 🇮🇳 Индия
+### 🇮🇳 Индия
 
 - [x] [Миллионер из трущоб](https://www.kinopoisk.ru/film/413362/)
 - [x] [Танцор диско](https://www.kinopoisk.ru/film/41740)
 
-## 🇸🇪 Швеция
+### 🇸🇪 Швеция
 
 - [x] [30 дней до рассвета](https://www.kinopoisk.ru/film/107084/)
 
-## 🇩🇪 Германия
+### 🇩🇪 Германия
 
 - [x] [Достучаться до небес](https://www.kinopoisk.ru/film/32898/)
 - [x] [Тьма](https://www.kinopoisk.ru/series/1032606/)
@@ -140,7 +140,7 @@
 - [x] [На Западном фронте без перемен](https://www.kinopoisk.ru/film/316376/)
 - [x] [Тайная жизнь](https://www.kinopoisk.ru/film/991632/)
 
-## 🇷🇺 Россия 
+### 🇷🇺 Россия 
 
 - [x] [Волшебный портрет](https://www.kinopoisk.ru/film/41439/)
 - [x] [9 рота](https://www.kinopoisk.ru/film/84674/)
@@ -270,7 +270,7 @@
 - [x] [Следствие ведут Колобки](https://www.kinopoisk.ru/film/417755)
 - [x] [Дюймовочка](https://www.kinopoisk.ru/film/44380)
 
-## 🇺🇸 США / 🇬🇧 Великобритания / 🇳🇿 Новая Зеландия
+### 🇺🇸 США • 🇬🇧 Великобритания • 🇳🇿 Новая Зеландия
 
 - [x] [Звездные войны: Эпизод 1 – Скрытая угроза](https://www.kinopoisk.ru/film/6695/)
 - [x] [Звездные войны: Эпизод 2 – Атака клонов](https://www.kinopoisk.ru/film/844/)
