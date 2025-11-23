@@ -212,6 +212,9 @@
 
 ###### ☭ СССР
 
+- [x] [Кащей Бессмертный](https://www.kinopoisk.ru/film/44727)
+- [x] [Василиса Прекрасная](https://www.kinopoisk.ru/film/45676/)
+- [x] [Конек-Горбунок](https://www.kinopoisk.ru/film/44915/) 
 - [x] [Любовь и голуби](https://www.kinopoisk.ru/film/45146/)
 - [x] [В бой идут одни «старики»](https://www.kinopoisk.ru/film/25108/)
 - [x] [Падение Берлина](https://www.kinopoisk.ru/film/42867)
@@ -245,6 +248,8 @@
 
 ###### Анимационные
 
+- [x] [Конек-Горбунок, 1947](https://www.kinopoisk.ru/film/44916/)
+- [x] [Конек-Горбунок, 1975](https://www.kinopoisk.ru/film/44917/)
 - [x] [Ну, погоди!](https://www.kinopoisk.ru/series/46483/)
 - [x] [Тайна третьей планеты](https://www.kinopoisk.ru/film/42172)
 - [x] [Жил-был пёс](https://www.kinopoisk.ru/film/45319/)
