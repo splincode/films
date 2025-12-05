@@ -296,6 +296,7 @@
 - [x] [Вирус](https://www.kinopoisk.ru/film/6219/)
 - [x] [Одиннадцать друзей Оушена](https://www.kinopoisk.ru/film/770/)
 - [x] [Дьявол носит Prada](https://www.kinopoisk.ru/film/104992/)
+- [x] [Балбесы](https://www.kinopoisk.ru/film/3926/)
 - [x] [Хороший, плохой, злой](https://www.kinopoisk.ru/film/349/)
 - [x] [Оппенгеймер](https://www.kinopoisk.ru/film/4664634/)
 - [x] [Байки из склепа](https://www.kinopoisk.ru/series/271501/)
