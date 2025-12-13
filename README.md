@@ -687,6 +687,7 @@
 - [x] [Армия мертвецов](https://www.kinopoisk.ru/film/428683/)
 - [x] [Эта дурацкая любовь](https://www.kinopoisk.ru/film/493992/)
 - [x] [Маска](https://www.kinopoisk.ru/film/6039/)
+- [x] [Сын маски](https://www.kinopoisk.ru/film/4982)
 - [x] [Зомби по имени Шон](https://www.kinopoisk.ru/film/64021/)
 - [x] [Годзилла 1998](https://www.kinopoisk.ru/film/4012/)
 - [x] [Годзилла](https://www.kinopoisk.ru/film/260991/)
