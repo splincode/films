@@ -169,6 +169,7 @@
 - [x] [Адмиралъ](https://www.kinopoisk.ru/film/280938/)
 - [x] [Неваляшка](https://www.kinopoisk.ru/film/261359/)
 - [x] [Обручальное кольцо](https://www.kinopoisk.ru/series/436269/)
+- [x] [Книга мастеров](https://www.kinopoisk.ru/film/425019/)
 - [x] [Фантом](https://www.kinopoisk.ru/film/394371)
 - [x] [Метро](https://www.kinopoisk.ru/film/521689/)
 - [x] [Грозовые ворота](https://www.kinopoisk.ru/series/252003/)
