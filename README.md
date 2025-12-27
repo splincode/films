@@ -211,11 +211,13 @@
 - [x] [Параграф 78: Фильм второй](https://www.kinopoisk.ru/film/276314/)
 - [x] [Параграф 78: Фильм первый](https://www.kinopoisk.ru/film/104984/)
 - [x] [Т-34](https://www.kinopoisk.ru/film/930878/)
+- [x] [Приключения Буратино](https://www.kinopoisk.ru/film/77301/)
 
 ###### Анимационные
 
 - [x] [Алеша Попович и Тугарин Змей](https://www.kinopoisk.ru/film/81041/)
 - [x] [Князь Владимир](https://www.kinopoisk.ru/film/103370/)
+- [x] [Приключения Буратино](https://www.kinopoisk.ru/film/43252/)
 
 ###### ☭ СССР
 
