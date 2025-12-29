@@ -211,7 +211,6 @@
 - [x] [Параграф 78: Фильм второй](https://www.kinopoisk.ru/film/276314/)
 - [x] [Параграф 78: Фильм первый](https://www.kinopoisk.ru/film/104984/)
 - [x] [Т-34](https://www.kinopoisk.ru/film/930878/)
-- [x] [Приключения Буратино](https://www.kinopoisk.ru/film/77301/)
 
 ###### Анимационные
 
@@ -254,6 +253,7 @@
 - [x] [Бриллиантовая рука](https://www.kinopoisk.ru/film/46225/)
 - [x] [Д`Артаньян и три мушкетера](https://www.kinopoisk.ru/series/44076)
 - [x] [Добро пожаловать, или Посторонним вход воспрещен](https://www.kinopoisk.ru/film/44238)
+- [x] [Приключения Буратино](https://www.kinopoisk.ru/film/77301/)
 
 ###### Анимационные
 
