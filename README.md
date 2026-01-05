@@ -211,6 +211,7 @@
 - [x] [Параграф 78: Фильм второй](https://www.kinopoisk.ru/film/276314/)
 - [x] [Параграф 78: Фильм первый](https://www.kinopoisk.ru/film/104984/)
 - [x] [Т-34](https://www.kinopoisk.ru/film/930878/)
+- [x] [Бандитский Петербург: Барон](https://www.kinopoisk.ru/series/77381/)
 
 ###### Анимационные
 
