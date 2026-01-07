@@ -57,7 +57,7 @@
 - [x] [Манускрипт ниндзя](https://www.kinopoisk.ru/film/8233/)
 - [x] [Босоногий Гэн](https://www.kinopoisk.ru/film/252330/)
 
-### 🇨🇳 Китай • 🇭🇰 Гонконг
+### 🇨🇳 Китай
 
 - [x] [Великая стена](https://www.kinopoisk.ru/film/611822/)
 - [x] [Ассасин: Битва миров](https://www.kinopoisk.ru/film/1236082/)
