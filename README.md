@@ -258,6 +258,7 @@
 - [x] [Добро пожаловать, или Посторонним вход воспрещен](https://www.kinopoisk.ru/film/44238)
 - [x] [Приключения Буратино](https://www.kinopoisk.ru/film/77301/)
 - [x] [Не может быть!](https://www.kinopoisk.ru/film/46368)
+- [x] [Спортлото-82](https://www.kinopoisk.ru/film/43949/)
 
 ###### Анимационные
 
