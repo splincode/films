@@ -260,6 +260,7 @@
 - [x] [Не может быть!](https://www.kinopoisk.ru/film/46368)
 - [x] [Спортлото-82](https://www.kinopoisk.ru/film/43949/)
 - [x] [Ирония судьбы, или С легким паром!](https://www.kinopoisk.ru/film/77331/)
+- [x] [Джентльмены удачи](https://www.kinopoisk.ru/film/44386/)
 
 ###### Анимационные
 
