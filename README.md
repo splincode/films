@@ -261,6 +261,9 @@
 - [x] [Спортлото-82](https://www.kinopoisk.ru/film/43949/)
 - [x] [Ирония судьбы, или С легким паром!](https://www.kinopoisk.ru/film/77331/)
 - [x] [Джентльмены удачи](https://www.kinopoisk.ru/film/44386/)
+- [x] [Морозко](https://www.kinopoisk.ru/film/46701)
+- [x] [Вечера на хуторе близ Диканьки](https://www.kinopoisk.ru/film/45694/)
+- [x] [Сказка о царе Салтане](https://www.kinopoisk.ru/film/43813/)
 
 ###### Анимационные
 
