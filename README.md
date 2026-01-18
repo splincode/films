@@ -771,6 +771,8 @@
 - [x] [Лило и Стич](https://www.kinopoisk.ru/film/1348367)
 - [x] [Гремлины](https://www.kinopoisk.ru/film/7114)
 - [x] [Гремлины 2: Новенькая партия](https://www.kinopoisk.ru/film/5633/)
+- [x] [Кто подставил кролика Роджера](https://www.kinopoisk.ru/film/7108/)
+- [x] [Космический джем](https://www.kinopoisk.ru/film/8169/)
 
 ###### Анимационные
 
