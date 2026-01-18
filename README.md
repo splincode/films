@@ -773,6 +773,9 @@
 - [x] [Гремлины 2: Новенькая партия](https://www.kinopoisk.ru/film/5633/)
 - [x] [Кто подставил кролика Роджера](https://www.kinopoisk.ru/film/7108/)
 - [x] [Космический джем](https://www.kinopoisk.ru/film/8169/)
+- [x] [Vизитеры](https://www.kinopoisk.ru/series/453372/)
+- [x] [В осаде](https://www.kinopoisk.ru/film/4053/)
+- [x] [В осаде 2: Темная территория](https://www.kinopoisk.ru/film/4580/)
 
 ###### Анимационные
 
@@ -836,4 +839,5 @@
 - [x] [Бен 10: Омниверс](https://www.kinopoisk.ru/series/694479/)
 - [x] [Робин Гуд](https://www.kinopoisk.ru/film/17579/)
 - [x] [Черепашки-ниндзя](https://www.kinopoisk.ru/series/584136/)
+- [x] [Осмосис Джонс](https://www.kinopoisk.ru/film/776/)
 
