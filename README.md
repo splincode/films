@@ -766,6 +766,7 @@
 - [x] [Американский пирог](https://www.kinopoisk.ru/film/5129/)
 - [x] [Американский пирог 2](https://www.kinopoisk.ru/film/587/)
 - [x] [Американский пирог 3: Свадьба](https://www.kinopoisk.ru/film/4300/)
+- [x] [Посейдон](https://www.kinopoisk.ru/film/81525/)
 - [x] [Американский пирог: Музыкальный лагерь](https://www.kinopoisk.ru/film/87387/)
 - [x] [Джули и Джулия: Готовим счастье по рецепту](https://www.kinopoisk.ru/film/402542)
 - [x] [Золотая лихорадка](https://www.kinopoisk.ru/film/478/)
@@ -777,6 +778,7 @@
 - [x] [Vизитеры](https://www.kinopoisk.ru/series/453372/)
 - [x] [В осаде](https://www.kinopoisk.ru/film/4053/)
 - [x] [В осаде 2: Темная территория](https://www.kinopoisk.ru/film/4580/)
+- [x] [Санктум](https://www.kinopoisk.ru/film/462669/)
 
 ###### Анимационные
 
