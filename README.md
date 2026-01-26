@@ -39,6 +39,7 @@
 - [x] [Я слежу за тобой](https://www.kinopoisk.ru/film/1405964/)
 - [x] [Метод исключения](https://www.kinopoisk.ru/film/484791/)
 - [x] [Алхимия душ](https://www.kinopoisk.ru/series/4872515/)
+- [x] [Без лица](https://www.kinopoisk.ru/film/6705895/)
 
 ### 🇯🇵 Япония
 
