@@ -392,6 +392,7 @@
 - [x] [Хищник 2](https://www.kinopoisk.ru/film/2230/)
 - [x] [Хищники](https://www.kinopoisk.ru/film/460523/)
 - [x] [Чужие против Хищника: Реквием](https://www.kinopoisk.ru/film/251878/)
+- [x] [Агент Коди Бэнкс](https://www.kinopoisk.ru/film/3844)
 - [x] [Чужой против Хищника](https://www.kinopoisk.ru/film/41949/)
 - [x] [Добыча](https://www.kinopoisk.ru/film/4324674/)
 - [x] [Робокоп](https://www.kinopoisk.ru/film/7410)
