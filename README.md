@@ -107,6 +107,7 @@
 - [x] [Безумно влюблённый](https://www.kinopoisk.ru/film/147969/)
 - [x] [Молодой Папа](https://www.kinopoisk.ru/series/893361/)
 - [x] [Легенда о пианисте](https://www.kinopoisk.ru/film/8335/)
+- [x] [Безумное свидание](https://www.kinopoisk.ru/film/8106285/)
 
 ### 🇪🇸 Испания
 
@@ -510,6 +511,7 @@
 - [x] [Путешествие 2: Таинственный остров](https://www.kinopoisk.ru/film/453367/)
 - [x] [Легенда о Зеленом рыцаре](https://www.kinopoisk.ru/film/1209476/)
 - [x] [Иллюзионист](https://www.kinopoisk.ru/film/102198/)
+- [x] [Римские каникулы](https://www.kinopoisk.ru/film/497/)
 - [x] [Терминал](https://www.kinopoisk.ru/film/6877/)
 - [x] [Ной](https://www.kinopoisk.ru/film/596001/)
 - [x] [В погоне за счастьем](https://www.kinopoisk.ru/film/104938/)
