@@ -40,6 +40,8 @@
 - [x] [Метод исключения](https://www.kinopoisk.ru/film/484791/)
 - [x] [Алхимия душ](https://www.kinopoisk.ru/series/4872515/)
 - [x] [Без лица](https://www.kinopoisk.ru/film/6705895/)
+- [x] [Как украсть собаку](https://www.kinopoisk.ru/film/890758/)
+- [x] [Потомки солнца](https://www.kinopoisk.ru/series/963340/)
 
 ### 🇯🇵 Япония
 
