@@ -42,6 +42,7 @@
 - [x] [Без лица](https://www.kinopoisk.ru/film/6705895/)
 - [x] [Как украсть собаку](https://www.kinopoisk.ru/film/890758/)
 - [x] [Потомки солнца](https://www.kinopoisk.ru/series/963340/)
+- [x] [Берлинское дело](https://www.kinopoisk.ru/film/677498)
 
 ### 🇯🇵 Япония
 
