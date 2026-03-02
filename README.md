@@ -600,6 +600,7 @@
 - [x] [Ханна. Совершенное оружие](https://www.kinopoisk.ru/film/468551/)
 - [x] [Тор: Рагнарёк](https://www.kinopoisk.ru/film/822709/)
 - [x] [Война Харта](https://www.kinopoisk.ru/film/691/)
+- [x] [Сумасшедшие гонки](https://www.kinopoisk.ru/film/81197/)
 - [x] [Хоббит: Битва пяти воинств](https://www.kinopoisk.ru/film/694633/)
 - [x] [Робин Гуд](https://www.kinopoisk.ru/film/278177/)
 - [x] [Шерлок Холмс](https://www.kinopoisk.ru/film/420923/)
