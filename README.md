@@ -79,6 +79,8 @@
 - [x] [Мулан](https://www.kinopoisk.ru/film/918722)
 - [x] [Слепой меч](https://www.kinopoisk.ru/film/5160854/)
 - [x] [Слепой меч. Око за око](https://www.kinopoisk.ru/film/5449057/)
+- [x] [Операция «Панда»](https://www.kinopoisk.ru/film/6092619/)
+- [x] [Полноводная красная река](https://www.kinopoisk.ru/film/5139258/)
 
 ###### Анимационные
 
