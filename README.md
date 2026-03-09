@@ -460,6 +460,7 @@
 - [x] [Люди в черном 3](https://www.kinopoisk.ru/film/455773/)
 - [x] [Шоу Трумана](https://www.kinopoisk.ru/film/4541/)
 - [x] [Игры разума](https://www.kinopoisk.ru/film/530/)
+- [x] [Из машины](https://www.kinopoisk.ru/film/197532/)
 - [x] [Звездная пыль](https://www.kinopoisk.ru/film/197863/)
 - [x] [Чёрная дыра](https://www.kinopoisk.ru/film/785/)
 - [x] [Ох уж эта наука!](https://www.kinopoisk.ru/film/2239)
