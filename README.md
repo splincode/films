@@ -460,6 +460,7 @@
 - [x] [Люди в чёрном](https://www.kinopoisk.ru/film/1091/)
 - [x] [Люди в чёрном 2](https://www.kinopoisk.ru/film/6379/)
 - [x] [Люди в черном 3](https://www.kinopoisk.ru/film/455773/)
+- [x] [Люди в чёрном: Интернэшнл](https://www.kinopoisk.ru/film/693730/)
 - [x] [Шоу Трумана](https://www.kinopoisk.ru/film/4541/)
 - [x] [Игры разума](https://www.kinopoisk.ru/film/530/)
 - [x] [Из машины](https://www.kinopoisk.ru/film/197532/)
