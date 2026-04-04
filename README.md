@@ -444,6 +444,7 @@
 - [x] [Фантастические твари: Преступления Грин-де-Вальда](https://www.kinopoisk.ru/film/843479/)
 - [x] [Престиж](https://www.kinopoisk.ru/film/195334/)
 - [x] [Дюна](https://www.kinopoisk.ru/film/409424/)
+- [x] [Дюна 2](https://www.kinopoisk.ru/film/4540126/)
 - [x] [Небесный капитан и мир будущего](https://www.kinopoisk.ru/film/13625/)
 - [x] [Человек из стали](https://www.kinopoisk.ru/film/252667/)
 - [x] [Карты, деньги, два ствола](https://www.kinopoisk.ru/film/522/)
