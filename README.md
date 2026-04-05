@@ -415,6 +415,7 @@
 - [x] [Остров проклятых](https://www.kinopoisk.ru/film/397667/)
 - [x] [Аполлон-11](https://www.kinopoisk.ru/film/1235047/)
 - [x] [Форрест Гамп](https://www.kinopoisk.ru/film/448/)
+- [x] [Мой год в Нью-Йорке](https://www.kinopoisk.ru/film/688609/)
 - [x] [Властелин колец](https://www.kinopoisk.ru/film/3498/)
 - [x] [Начало](https://www.kinopoisk.ru/film/447301/)
 - [x] [Криминальное чтиво](https://www.kinopoisk.ru/film/342/)
