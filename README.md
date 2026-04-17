@@ -749,6 +749,7 @@
 - [x] [Всегда говори «ДА»](https://www.kinopoisk.ru/film/391772/)
 - [x] [Твин Пикс](https://www.kinopoisk.ru/series/843207/)
 - [x] [Эверест](https://www.kinopoisk.ru/film/739642/)
+- [x] [Пираты Силиконовой Долины](https://www.kinopoisk.ru/film/95636/)
 - [x] [Агенты А.Н.К.Л.](https://www.kinopoisk.ru/film/518042/)
 - [x] [Рок-н-рольщик](https://www.kinopoisk.ru/film/378140/)
 - [x] [Куб](https://www.kinopoisk.ru/film/20590/)
