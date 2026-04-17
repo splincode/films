@@ -693,6 +693,7 @@
 - [x] [Рождественские каникулы](https://www.kinopoisk.ru/film/10074/)
 - [x] [Пила: Игра на выживание](https://www.kinopoisk.ru/film/64187/)
 - [x] [Город грехов](https://www.kinopoisk.ru/film/77443/)
+- [x] [Джобс: Империя соблазна](https://www.kinopoisk.ru/film/677798)
 - [x] [Мумия](https://www.kinopoisk.ru/film/4484)
 - [x] [Маленькие чудовища](https://www.kinopoisk.ru/film/1091939/)
 - [x] [Мумия возвращается](https://www.kinopoisk.ru/film/760/)
