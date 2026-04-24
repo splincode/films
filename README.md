@@ -44,6 +44,7 @@
 - [x] [Потомки солнца](https://www.kinopoisk.ru/series/963340/)
 - [x] [Берлинское дело](https://www.kinopoisk.ru/film/677498)
 - [x] [#живой](https://www.kinopoisk.ru/film/1282031/)
+- [x] [Больше чем семья](https://www.kinopoisk.ru/film/1286829/)
 
 ### 🇯🇵 Япония
 
