@@ -46,6 +46,9 @@
 - [x] [#живой](https://www.kinopoisk.ru/film/1282031/)
 - [x] [Больше чем семья](https://www.kinopoisk.ru/film/1286829/)
 - [x] [Ровно в 4 после полудня](https://www.kinopoisk.ru/film/5309394/)
+- [x] [Астрал. Мертвое сердце»](https://www.kinopoisk.ru/film/1338042)
+- [x] [Армия мёртвых в Пусане](https://www.kinopoisk.ru/film/1392672/)
+- [x] [Астрал. Кошмар в «Спринг Гарден»](https://www.kinopoisk.ru/film/5257427/)
 
 ### 🇯🇵 Япония
 
