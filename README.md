@@ -49,6 +49,7 @@
 - [x] [Астрал. Мертвое сердце»](https://www.kinopoisk.ru/film/1338042)
 - [x] [Армия мёртвых в Пусане](https://www.kinopoisk.ru/film/1392672/)
 - [x] [Астрал. Кошмар в «Спринг Гарден»](https://www.kinopoisk.ru/film/5257427/)
+- [x] [Залог](https://www.kinopoisk.ru/film/1237995)
 
 ### 🇯🇵 Япония
 
