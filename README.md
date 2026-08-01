@@ -868,4 +868,5 @@
 - [x] [Робин Гуд](https://www.kinopoisk.ru/film/17579/)
 - [x] [Черепашки-ниндзя](https://www.kinopoisk.ru/series/584136/)
 - [x] [Осмосис Джонс](https://www.kinopoisk.ru/film/776/)
+- [x] [Приключения Джимми Нейтрона](https://www.kinopoisk.ru/series/229066)
 
