@@ -69,6 +69,7 @@
 - [x] [Призрак в доспехах](https://www.kinopoisk.ru/film/8228/)
 - [x] [Манускрипт ниндзя](https://www.kinopoisk.ru/film/8233/)
 - [x] [Босоногий Гэн](https://www.kinopoisk.ru/film/252330/)
+- [x] [Яблочное зернышко](https://www.kinopoisk.ru/film/84440/?socialAlias=c3BsaW5jb2Rl)
 
 ### 🇨🇳 Китай
 
@@ -330,6 +331,7 @@
 - [x] [Тихое место](https://www.kinopoisk.ru/film/1044906/)
 - [x] [Тихое место 2](https://www.kinopoisk.ru/film/1129900/)
 - [x] [Вирус](https://www.kinopoisk.ru/film/6219/)
+- [x] [Разрушитель](https://www.kinopoisk.ru/film/4827)
 - [x] [Одиннадцать друзей Оушена](https://www.kinopoisk.ru/film/770/)
 - [x] [Дьявол носит Prada](https://www.kinopoisk.ru/film/104992/)
 - [x] [Балбесы](https://www.kinopoisk.ru/film/3926/)
@@ -729,6 +731,8 @@
 - [x] [Бруклин 9-9](https://www.kinopoisk.ru/series/714102/)
 - [x] [Жемчужина Нила](https://www.kinopoisk.ru/film/12284/)
 - [x] [Звездный десант](https://www.kinopoisk.ru/film/6025/)
+- [x] [Звездный десант 2: Герой федерации](https://www.kinopoisk.ru/film/64182/?socialAlias=c3BsaW5jb2Rl)
+- [x] [Звездный десант 3: Мародер](https://www.kinopoisk.ru/film/64182/?socialAlias=c3BsaW5jb2Rl)
 - [x] [Час пик](https://www.kinopoisk.ru/film/6345/)
 - [x] [Сокровище нации](https://www.kinopoisk.ru/film/61333/)
 - [x] [Сокровище нации: Книга Тайн](https://www.kinopoisk.ru/film/195408/)
@@ -825,6 +829,7 @@
 - [x] [Тимон и Пумба](https://www.kinopoisk.ru/series/94672)
 - [x] [Последняя фантазия](https://www.kinopoisk.ru/film/670/)
 - [x] [Дом-монстр](https://www.kinopoisk.ru/film/77601/)
+- [x] [Звездный десант: Вторжение](https://www.kinopoisk.ru/film/636724/?socialAlias=c3BsaW5jb2Rl)
 - [x] [Лило и Стич](https://www.kinopoisk.ru/film/740/)
 - [x] [Холодное сердце](https://www.kinopoisk.ru/film/493208/)
 - [x] [Кунг-фу Панда](https://www.kinopoisk.ru/film/103734/)
