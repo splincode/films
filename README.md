@@ -817,6 +817,8 @@
 - [x] [В осаде 2: Темная территория](https://www.kinopoisk.ru/film/4580/)
 - [x] [Санктум](https://www.kinopoisk.ru/film/462669/)
 - [x] [Супер 8](https://www.kinopoisk.ru/film/517433)
+- [x] [Альф](https://www.kinopoisk.ru/series/198923)
+- [x] [Проект: Альф](https://www.kinopoisk.ru/film/79443)
 
 ###### Анимационные
 
@@ -833,8 +835,6 @@
 - [x] [Шрэк навсегда](https://www.kinopoisk.ru/film/271806/)
 - [x] [Подводная братва](https://www.kinopoisk.ru/film/7464/)
 - [x] [Лесная братва](https://www.kinopoisk.ru/film/6036)
-- [x] [Альф](https://www.kinopoisk.ru/series/198923)
-- [x] [Проект: Альф](https://www.kinopoisk.ru/film/79443)
 - [x] [Хи-Мэн и Властелины Вселенной](https://www.kinopoisk.ru/series/229750)
 - [x] [Ральф против интернета](https://www.kinopoisk.ru/film/988782/)
 - [x] [Тимон и Пумба](https://www.kinopoisk.ru/series/94672)
