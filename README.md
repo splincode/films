@@ -51,6 +51,8 @@
 - [x] [Астрал. Кошмар в «Спринг Гарден»](https://www.kinopoisk.ru/film/5257427/)
 - [x] [Залог](https://www.kinopoisk.ru/film/1237995)
 - [x] [Стойкий доктор](https://www.kinopoisk.ru/series/9102675/)
+- [x] [Жена принца XXI века](https://www.kinopoisk.ru/series/6648415/)
+- [x] [Сезон хороших дождей](https://www.kinopoisk.ru/film/477298)
 
 ### 🇯🇵 Япония
 
@@ -343,6 +345,7 @@
 - [x] [Операция «Валькирия»](https://www.kinopoisk.ru/film/309475/)
 - [x] [Интервью с вампиром](https://www.kinopoisk.ru/film/8151/)
 - [x] [Война миров](https://www.kinopoisk.ru/film/81289/)
+- [x] [Инопланетянин](https://www.kinopoisk.ru/film/544/)
 - [x] [Солдаты неудачи](https://www.kinopoisk.ru/film/278208/)
 - [x] [Если твоя девушка — зомби](https://www.kinopoisk.ru/film/725033/)
 - [x] [Тепло наших тел](https://www.kinopoisk.ru/film/497077/)
@@ -522,6 +525,10 @@
 - [x] [Человек-паук 3: Враг в отражении](https://www.kinopoisk.ru/film/82441/)
 - [x] [Человек-паук: Нет пути домой](https://www.kinopoisk.ru/film/1309570/)
 - [x] [Изгой](https://www.kinopoisk.ru/film/627/)
+- [x] [Я – Четвертый](https://www.kinopoisk.ru/film/468872)
+- [x] [Солдатики](https://www.kinopoisk.ru/film/1676/)
+- [x] [Пришельцы на чердаке](https://www.kinopoisk.ru/film/278204/)
+- [x] [Ведьмина гора](https://www.kinopoisk.ru/film/395051/)
 - [x] [Страшилы](https://www.kinopoisk.ru/film/5909/)
 - [x] [Отель «Гранд Будапешт»](https://www.kinopoisk.ru/film/683999/)
 - [x] [Железный человек](https://www.kinopoisk.ru/film/61237/)
@@ -562,6 +569,7 @@
 - [x] [Константин: Повелитель тьмы](https://www.kinopoisk.ru/film/3793/)
 - [x] [Спасти рядового Райана](https://www.kinopoisk.ru/film/371/)
 - [x] [Эрагон](https://www.kinopoisk.ru/film/103644/)
+- [x] [Мой любимый марсианин](https://www.kinopoisk.ru/film/2727)
 - [x] [Чего хотят женщины](https://www.kinopoisk.ru/film/880/)
 - [x] [Планета страха](https://www.kinopoisk.ru/film/273063/)
 - [x] [101 далматинец](https://www.kinopoisk.ru/film/2380/)
@@ -808,6 +816,7 @@
 - [x] [В осаде](https://www.kinopoisk.ru/film/4053/)
 - [x] [В осаде 2: Темная территория](https://www.kinopoisk.ru/film/4580/)
 - [x] [Санктум](https://www.kinopoisk.ru/film/462669/)
+- [x] [Супер 8](https://www.kinopoisk.ru/film/517433)
 
 ###### Анимационные
 
@@ -824,6 +833,8 @@
 - [x] [Шрэк навсегда](https://www.kinopoisk.ru/film/271806/)
 - [x] [Подводная братва](https://www.kinopoisk.ru/film/7464/)
 - [x] [Лесная братва](https://www.kinopoisk.ru/film/6036)
+- [x] [Альф](https://www.kinopoisk.ru/series/198923)
+- [x] [Проект: Альф](https://www.kinopoisk.ru/film/79443)
 - [x] [Хи-Мэн и Властелины Вселенной](https://www.kinopoisk.ru/series/229750)
 - [x] [Ральф против интернета](https://www.kinopoisk.ru/film/988782/)
 - [x] [Тимон и Пумба](https://www.kinopoisk.ru/series/94672)
@@ -833,6 +844,7 @@
 - [x] [Лило и Стич](https://www.kinopoisk.ru/film/740/)
 - [x] [Холодное сердце](https://www.kinopoisk.ru/film/493208/)
 - [x] [Кунг-фу Панда](https://www.kinopoisk.ru/film/103734/)
+- [x] [Стальной гигант](https://www.kinopoisk.ru/film/538)
 - [x] [Гадкий я](https://www.kinopoisk.ru/film/432724/)
 - [x] [Земля до начала времен](https://www.kinopoisk.ru/film/7107/)
 - [x] [Люди Икс ’97](https://www.kinopoisk.ru/series/4711940/)
