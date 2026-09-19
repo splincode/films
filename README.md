@@ -54,6 +54,7 @@
 - [x] [Жена принца XXI века](https://www.kinopoisk.ru/series/6648415/)
 - [x] [Сезон хороших дождей](https://www.kinopoisk.ru/film/477298)
 - [x] [Скандал в Инсадоне](https://www.kinopoisk.ru/film/488030)
+- [x] [Шоу должно продолжаться!](https://www.kinopoisk.ru/film/321829/)
 
 ### 🇯🇵 Япония
 
