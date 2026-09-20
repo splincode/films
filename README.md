@@ -846,6 +846,7 @@
 - [x] [Лило и Стич](https://www.kinopoisk.ru/film/740/)
 - [x] [Холодное сердце](https://www.kinopoisk.ru/film/493208/)
 - [x] [Кунг-фу Панда](https://www.kinopoisk.ru/film/103734/)
+- [x] [Дорога на Эльдорадо](https://www.kinopoisk.ru/film/806/)
 - [x] [Стальной гигант](https://www.kinopoisk.ru/film/538)
 - [x] [Гадкий я](https://www.kinopoisk.ru/film/432724/)
 - [x] [Земля до начала времен](https://www.kinopoisk.ru/film/7107/)
